@@ -217,51 +217,51 @@
     "items": [
       {
         "name": "João Silva",
-        "date": "2 months ago",
+        "date": "Há 2 meses",
         "rating": 5,
-        "text": "A wonderfully preserved medieval village! The cobblestone streets and white houses are full of history, and the view of Lake Alqueva from the walls is simply unparalleled. Highly recommend visiting at sunset."
+        "text": "Um jardim urbano maravilhoso e bem preservado! Os caminhos de calçada e as estátuas estão cheios de história. Caminhar aqui é muito relaxante. Recomendo vivamente vir ao pôr do sol."
       },
       {
         "name": "Maria Costa",
-        "date": "1 month ago",
+        "date": "Há 1 mês",
         "rating": 5,
-        "text": "One of the most beautiful towns in Portugal! The tranquility here is relaxing, and the surrounding scenery is spectacular. Just be careful, it gets very hot in the summer, so remember to bring water and sunscreen."
+        "text": "Um dos locais de lazer mais bonitos de Leiria! A tranquilidade aqui é muito relaxante e a vegetação circundante é linda. Cuidado no verão, pois pode ficar quente, leve água e protetor solar."
       },
       {
         "name": "Carlos Rodrigues",
-        "date": "3 months ago",
+        "date": "Há 3 meses",
         "rating": 4,
-        "text": "Amazing place. The castle isn't huge, but the location is perfect. Had a fantastic traditional Portuguese meal at a restaurant in the village. The only issue is that parking can be hard to find in peak season."
+        "text": "Um lugar incrível. O jardim não é enorme, mas a localização é perfeita. Tive uma ótima refeição tradicional portuguesa num restaurante próximo. O único problema é encontrar estacionamento na época alta."
       },
       {
         "name": "Ana Martins",
-        "date": "Over 6 months ago",
+        "date": "Há mais de 6 meses",
         "rating": 5,
-        "text": "A very romantic and charming place. We stayed here for a night, and stargazing was an absolute highlight since it's a famous dark sky reserve in Europe. Completely fell in love with it!"
+        "text": "Um lugar muito romântico e encantador. Caminhamos por aqui e a vista noturna é absolutamente deslumbrante. Fiquei completamente apaixonada!"
       },
       {
         "name": "Pedro Santos",
-        "date": "1 year ago",
+        "date": "Há 1 ano",
         "rating": 5,
-        "text": "The panoramic view here is truly breathtaking. You can see the reservoir and the vast plains intertwined. The town itself is also charming with many small shops selling local handicrafts."
+        "text": "A paisagem aqui realmente levanta o ânimo. Pode ver a estátua requintada a misturar-se com a ampla praça. O jardim em si é encantador com muitos cafés ao redor."
       },
       {
         "name": "Teresa Ferreira",
-        "date": "Over 6 months ago",
+        "date": "Há mais de 6 meses",
         "rating": 4,
-        "text": "Well worth a visit! Very easy to drive from Leiria. Recommend wearing flat shoes because it's all cobblestones. The people in town are very friendly, and there are many great spots for photos."
+        "text": "Vale bem a pena a visita! É muito fácil caminhar até aqui a partir do Castelo de Leiria. Recomendo usar sapatos rasos devido aos caminhos de calçada. Os locais são amigáveis, ótimos locais para fotos."
       },
       {
         "name": "Rui Almeida",
-        "date": "3 months ago",
+        "date": "Há 3 meses",
         "rating": 5,
-        "text": "Felt like stepping back into the Middle Ages! Every alley and every door has its story. Time seems to stand still when walking on the walls. A must-visit place in the Alentejo region."
+        "text": "Parece que recuámos no tempo! Cada caminho e fonte tem a sua história. Descansar num banco faz-nos sentir que o tempo parou. Uma visita obrigatória em Leiria."
       },
       {
         "name": "Catarina Gomes",
-        "date": "2 months ago",
+        "date": "Há 2 meses",
         "rating": 5,
-        "text": "Too beautiful to describe with words. Whether it's the ancient castle ruins or the blue lake water below, it makes you linger. Especially recommend going to the top of the tower, although it's very windy, the view is the best."
+        "text": "Lindo além das palavras. Quer seja a estátua de Camões ou a vegetação verde, não vai querer ir embora. Recomendo vivamente sentar-se junto à fonte, a sensação é incrível."
       }
     ]
   },
