@@ -51,7 +51,7 @@ export async function generateMetadata({
       title: messages.meta.title,
       description: messages.meta.description,
       url: selfUrl,
-      siteName: "Centro Histórico de Évora",
+      siteName: "Jardim Luís de Camões",
       locale: localeMap[locale] || 'zh_CN',
       type: 'website',
     },

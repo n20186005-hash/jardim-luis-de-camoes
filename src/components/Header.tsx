@@ -26,7 +26,7 @@ export default function Header() {
     >
       <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
         <a href="/" className="font-display text-lg font-semibold tracking-tight" style={{ color: scrolled ? 'var(--text-primary)' : '#fff' }}>
-          Centro Histórico de Évora
+          Jardim Luís de Camões
         </a>
 
         <nav className="hidden md:flex items-center gap-6">

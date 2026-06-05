@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Jardim Luís de Camões | Medieval Castle & Stunning Panoramas in Portugal",
-    "description": "Complete guide to exploring Jardim Luís de Camões in Portugal. Learn about opening hours, transportation, and photo spots."
+    "title": "Jardim Luís de Camões | Urban Memorial Garden in Leiria, Portugal",
+    "description": "Explore the complete guide to Jardim Luís de Camões in Leiria, Portugal. Learn about this memorial garden, its central statue, and nearby attractions like Leiria Castle."
   },
   "header": {
     "home": "Home",
@@ -20,23 +20,23 @@
   },
   "intro": {
     "title": "Explore Jardim Luís de Camões",
-    "description": "The Historic Centre of Leiria is situated on the gentle hills of the Alentejo region. The entire old town is enclosed by medieval walls, earning it the title of an open-air museum. Over two thousand years of civilization converge here, preserving ancient Roman ruins, Moorish alleys, Gothic churches, and Renaissance civil architecture. The old town is centered around Praça do Giraldo, with multiple ancient alleys radiating outward. Largo 5 de Outubro 48 is located on the old town's high ground, connecting the Roman Temple and the episcopal complex. Whitewashed walls adorned with wrought-iron balconies and hand-painted tiles form the iconic streetscape.",
+    "description": "Jardim Luís de Camões is a small urban memorial garden located in the heart of Leiria, adjacent to the Leiria Castle and the old town. It is a popular spot for locals to relax and take a walk. At the center of the garden stands a bronze statue honoring Portugal's greatest poet, Luís de Camões, surrounded by manicured shrubs, flowers, benches, and a small fountain, offering a tranquil environment perfect for a brief rest.",
     "visitGuide": {
       "title": "Visiting Tips",
       "items": [
-        "The city features many uneven cobblestone streets; non-slip, comfortable walking shoes are essential. Most guesthouses within the old town can assist with short-distance luggage transfers.",
-        "Summer daytime temperatures are high. Ensure adequate sun protection, carry drinking water, and avoid the midday heat.",
-        "Tour groups mostly arrive at popular sites in the morning. For a quieter experience, try to enter as soon as the venues open.",
-        "Local public museums offer free admission on Sundays; religious sites are not included in this offer."
+        "The garden is an open urban park with flat terrain and comfortable walking paths",
+        "Equipped with plenty of benches and shade, making it an ideal resting place before or after visiting nearby attractions like Leiria Castle",
+        "Free and open all day, you can visit anytime for a walk or to admire the Camões statue",
+        "Located right next to Leiria's old town, with numerous cafes and restaurants nearby"
       ]
     },
     "alsoKnownAs": {
-      "title": "Attraction Highlights",
+      "title": "Garden Highlights",
       "items": [
-        "Multi-Era Historic Building Clusters: Concentrated distribution of the 2nd-century Roman Temple of Diana, medieval fortress-like Cathedral, 16th-century Chapel of Bones, and Renaissance noble mansions.",
-        "Authentic Medieval Streets: Moorish-style winding cobblestone paths with perfectly preserved local traditional architectural textures.",
-        "High-Altitude Panoramic Views: The Cathedral tower and Largo 5 de Outubro 48 terrace offer sweeping views of the old town's red-tiled roofs and the surrounding Alentejo plains.",
-        "Rich Local Culture: Plazas surrounded by open-air cafes and artisan shops, blending historical monuments with local daily life."
+        "Memorial Significance: Features a central bronze statue dedicated to the great Portuguese poet Luís de Camões",
+        "Beautiful Environment: A harmonious blend of manicured green shrubs, seasonal flowers, and a small fountain",
+        "Central Location: Situated in downtown Leiria, just a 5-minute walk from the historic Castelo de Leiria",
+        "Urban Oasis: Provides a quiet, relaxing space for both citizens and tourists"
       ]
     }
   },
@@ -45,18 +45,18 @@
     "sections": [
       {
         "id": "history",
-        "title": "History",
-        "content": "Built in the 13th century, Jardim Luís de Camões was a crucial part of Portugal's border defense system. It witnessed multiple clashes between Moors and Christians and played a key role in the Reconquista."
+        "title": "Memorial Significance",
+        "content": "This garden was established by the city of Leiria as an urban space to pay tribute to the Portuguese literary giant Luís de Camões, with his bronze statue acting as the centerpiece."
       },
       {
         "id": "architecture",
-        "title": "Architecture & Views",
-        "content": "Constructed mainly from schist and limestone, the castle blends perfectly with the natural environment. From the main tower, you get a 360-degree view of the stunning Alentejo landscape."
+        "title": "Landscaping",
+        "content": "The garden features a delicate design with neatly trimmed greenery, a classical-style fountain, and relaxing benches that blend harmoniously with the surrounding urban architecture."
       },
       {
         "id": "experience",
-        "title": "Core Experience",
-        "content": "Pass through the ancient gates, stroll along narrow streets exploring white houses and traditional craft shops, and wait for the sunset at the highest point of the castle."
+        "title": "Relaxing Experience",
+        "content": "It is the perfect place to unwind after visiting the majestic Leiria Castle. You can sit on a bench, listen to the fountain, and experience the slow-paced lifestyle of Leiria."
       }
     ]
   },
@@ -65,7 +65,7 @@
     "officialName": "Official Name",
     "officialNameValue": "Jardim Luís de Camões",
     "type": "Attraction Type",
-    "typeValue": "Garden",
+    "typeValue": "Urban Memorial Garden",
     "country": "Country",
     "countryValue": "Portugal",
     "city": "City",
@@ -78,62 +78,61 @@
   },
   "hours": {
     "title": "Opening Hours",
-    "outdoor": "Castle Area",
-    "outdoorTime": "The old town streets, Praça do Giraldo, and Largo 5 de Outubro 48 are open 24/7 for free. Paid indoor venues have seasonal scheduled opening hours.",
-    "lighthouse": "Indoor Exhibitions",
-    "summer": "Chapel of Bones",
-    "summerTime": "Regularly 9:00-17:00, slight adjustments on public holidays",
-    "winter": "Leiria Cathedral (including viewing terrace)",
-    "winterTime": "9:30-18:00",
-    "warning": "Roman Temple Outdoor Ruins",
-    "warningTime": "Outdoor ruins open 24/7, attached small exhibition hall has limited hours",
-    "tip": "Best visited from April to October (Spring to Autumn); July and August are very hot at noon, so early morning or evening is preferred."
+    "outdoor": "Entire Garden",
+    "outdoorTime": "Free and open all day, no ticketed indoor pavilions, no seasonal restrictions",
+    "lighthouse": "Nearby Attractions",
+    "summer": "Leiria Castle",
+    "summerTime": "Usually 09:30-17:30 (subject to official castle announcements)",
+    "winter": "Museum of Leiria",
+    "winterTime": "Usually 09:30-17:30 (Closed on Mondays)",
+    "warning": "Fountain & Statue Area",
+    "warningTime": "Open all day for viewing",
+    "tip": "Early mornings and late afternoons are the most peaceful times, perfect for walking and photography"
   },
   "tickets": {
     "title": "Ticket Information",
-    "outdoor": "Old Town Public Streets, Plazas, Temple Exteriors",
-    "outdoorPrice": "Free Admission",
-    "lighthouse": "Special Exhibitions",
-    "adults": "Chapel of Bones",
-    "adultsPrice": "Regular admission, discounts for students",
-    "students": "Leiria Cathedral (Viewing Terrace)",
-    "studentsPrice": "Adult admission, half-price for students",
-    "children": "Parking Fee",
-    "childrenPrice": "Motor vehicles are prohibited inside the ancient walls. Several free public parking lots are available just outside the walls, requiring only a 5 to 10-minute walk into the old town.",
-    "card": "Ticket Advice",
-    "cardPrice": "Discounted combo tickets available for multiple venues"
+    "outdoor": "Jardim Luís de Camões",
+    "outdoorPrice": "Free all day",
+    "lighthouse": "Nearby Paid Attractions",
+    "adults": "Leiria Castle",
+    "adultsPrice": "Requires an admission ticket",
+    "students": "Nearby Museums",
+    "studentsPrice": "Fees apply according to each venue's rules",
+    "children": "Parking Fees",
+    "childrenPrice": "Paid street parking is available around the garden, a 1-2 minute walk away",
+    "card": "Transport Tip",
+    "cardPrice": "Located in the city center, walking distance to nearby dining and shopping areas"
   },
   "transport": {
     "title": "Transportation",
     "airport": "From the Airport",
-    "airportDesc": "Nearest international airports: Lisbon (LIS) Airport (approx. 135 km, 1h 25m drive) and Faro (FAO) Airport (approx. 240 km, 2h 50m drive). Renting a car upon arrival is recommended.",
+    "airportDesc": "Nearest International Airports: Lisbon LIS Airport (approx. 140 km, 1.5 hours drive), Porto OPO Airport (approx. 200 km, 2 hours drive).",
     "selfDrive": "Driving",
-    "selfDriveDesc": "From Lisbon, take the A2 highway south, then connect to the A6 directly to Leiria. Navigate to Largo 5 de Outubro 48 and park in the lots outside the city walls.",
+    "selfDriveDesc": "From Lisbon, take the A8 or A1 highway north directly to Leiria. Set your GPS to Largo 5 de Outubro 48, and find paid street parking nearby.",
     "bus": "Public Transport",
-    "busDesc": "Take a Rede Expressos intercity bus from Sete Rios station in Lisbon directly to the Leiria bus station, which is within walking distance of the old town. Alternatively, there are direct trains from central Lisbon to Leiria, requiring a short walk into the city.",
+    "busDesc": "Direct intercity buses (Rede Expressos) and trains run from both Lisbon and Porto to Leiria. From the Leiria station, the garden is easily reachable on foot.",
     "intercity": "Short-Distance Travel",
-    "intercityDesc": "The old town is entirely navigable on foot. The surrounding suburban plains are flat and ideal for cycling or chartering a car to visit nearby megalithic monuments and wineries.",
+    "intercityDesc": "Attractions in downtown Leiria are close together; Castelo de Leiria is just a 5-minute walk from the garden.",
     "cycling": "Cycling",
-    "cyclingDesc": "The surrounding Alentejo region and Alqueva reservoir offer relatively flat and scenic routes, perfect for both road and mountain biking.",
+    "cyclingDesc": "The coastal areas around Leiria (such as Nazaré and São Pedro de Moel) are great for road cycling.",
     "tips": "Travel Tips",
-    "tipsDesc": "Due to limited public transport schedules in the Alentejo region, renting a car is strongly advised for the flexibility to explore nearby wineries, megalithic monuments, and the Alqueva Dam."
+    "tipsDesc": "Leiria is centrally located in Portugal, close to the Atlantic coast, Óbidos Castle, and Batalha Monastery, making it an excellent hub for exploring the central region."
   },
   "route": {
     "title": "Visiting Route",
-    "overview": "Standard Walking Tour Route (Half-Day Itinerary)",
+    "overview": "Leiria City Center Walking Route",
     "steps": [
-      "Walk from the outside parking lot through the ancient aqueduct gate into the old town",
-      "Explore Praça do Giraldo and take a short break",
-      "Walk to visit the Church of St. Francis and the Chapel of Bones",
-      "Head to the Leiria Cathedral and climb to the terrace for a panoramic view",
-      "Move to Largo 5 de Outubro 48 to view the Roman Temple from a distance",
-      "Get up close to the remaining columns of the Roman Temple of Diana",
-      "Wander through the old town alleys in the evening and taste local specialties"
+      "Arrive at Jardim Luís de Camões to admire the Camões statue and fountain",
+      "Take a break on a garden bench and enjoy the urban greenery",
+      "Walk to Leiria's old town to explore local cafes and craft shops",
+      "Take a 5-minute walk up to the majestic Castelo de Leiria",
+      "Visit the nearby Leiria Cathedral or local museums",
+      "Taste traditional Central Portugal cuisine in the old town"
     ],
     "supplements": [
-      "Cobblestone streets can be slippery; wear comfortable, non-slip shoes.",
-      "Dining options are limited; booking in advance during peak season is advised.",
-      "Summer midday sun is intense; stay hydrated and use sun protection."
+      "The garden is an open space, no reservations needed",
+      "Pay attention to parking meters and time limits on surrounding streets",
+      "Leiria Castle is located on a hill, requiring an uphill walk"
     ],
     "supplementsTitle": "Visiting Notes"
   },
@@ -141,72 +140,72 @@
     "title": "Photo Spots",
     "spots": [
       {
-        "name": "Cathedral Roof Terrace",
-        "desc": "Capture the continuous roofs of the old town and the distant plains at sunset."
+        "name": "Luís de Camões Statue",
+        "desc": "The central landmark of the garden, perfect for memorial portraits"
       },
       {
-        "name": "Largo 5 de Outubro 48 Viewing Platform",
-        "desc": "Eye-level view of the main Roman Temple columns with the white houses of the old town in the background."
+        "name": "Fountain and Greenery",
+        "desc": "Use the water features and manicured shrubs as foregrounds for fresh garden shots"
       },
       {
-        "name": "Center of Praça do Giraldo",
-        "desc": "Utilize the radiating streets to create deep, culturally rich compositions."
+        "name": "Relaxation Benches",
+        "desc": "Capture the laid-back daily life of the locals"
       },
       {
-        "name": "Niche Cobblestone Alleys in the West",
-        "desc": "Whitewashed walls and tiled doors/windows, perfect for portraits."
+        "name": "Distant View of Leiria Castle",
+        "desc": "The silhouette of the castle can be framed from specific angles around the garden"
       }
     ],
     "tips": "Photography Tips",
-    "tipsContent": "The golden hour at sunset provides soft light. The temple is illuminated at night, making it excellent for night photography."
+    "tipsContent": "Morning sunlight filtering through the leaves onto the statue creates the best lighting for photography."
   },
   "hotels": {
     "title": "Accommodation Suggestions",
     "hotels": [
       {
-        "name": "Historic Guesthouses Inside the Walls",
-        "desc": "Converted from old noble mansions, steps away from major monuments.",
-        "price": "Advance booking required in peak season"
+        "name": "Downtown Boutique Hotels",
+        "desc": "Just steps away from the garden and castle, extremely convenient",
+        "price": "Ideal for those who love a city vibe"
       },
       {
-        "name": "Suburban Estate Hotels",
-        "desc": "Converted old monasteries and rural farms, often featuring courtyard pools.",
-        "price": "Ideal for self-driving tourists"
+        "name": "Old Town Cozy Apartments",
+        "desc": "Equipped with kitchens, surrounded by restaurants and supermarkets",
+        "price": "Great for families or extended stays"
       },
       {
-        "name": "Budget Apartments Outside the Old Town",
-        "desc": "Close to parking lots with plenty of dining options nearby.",
-        "price": "Outstanding value for money"
+        "name": "Coastal Resorts (e.g., near Nazaré)",
+        "desc": "About a 30-minute drive from Leiria, offering Atlantic ocean views",
+        "price": "Perfect for drivers seeking a beach holiday experience"
       }
     ],
     "supplements": "Accommodation Notes",
-    "supplementsContent": "Focuses on rustic Alentejo cuisine: bread soup, garlic braised dishes, regional wines, and traditional Portuguese sweets. Local flavor restaurants are scattered throughout the old town alleys, perfect for spontaneous dining.",
+    "supplementsContent": "Leiria and Central Portugal are famous for seafood, roasted meats, and traditional conventual sweets. Numerous highly-rated local restaurants are within walking distance of the garden.",
     "supplementsTitle": "Local Cuisine"
   },
   "gallery": {
     "title": "Stunning Photos",
     "subtitle": "Charming Scenery of Jardim Luís de Camões",
     "captions": [
-      "Castle Panorama",
-      "Ancient Walls",
-      "Overlooking Alqueva Dam",
-      "White Houses and Cobblestones",
-      "Magnificent Sunset",
-      "Starry Night Sky",
-      "Historic City Gate",
-      "Traditional Craft Shop",
-      "Main Church",
-      "Castle Courtyard",
-      "Alentejo Plains",
-      "Defense Tower",
-      "Quiet Town Corner",
-      "White Walls in the Sun",
-      "Distant Landscape",
-      "Castle at Dusk",
-      "Medieval Details",
-      "Spring Wildflowers",
-      "Reservoir View",
-      "Distant Castle View"
+      "Camões Statue",
+      "Garden Fountain",
+      "Manicured Shrubs",
+      "Leiria Castle View",
+      "Shaded Walking Path",
+      "Urban Oasis",
+      "Leiria Old Town Streets",
+      "Local Cafe",
+      "Sunlit Bench",
+      "Garden Flowers",
+      "City Square",
+      "Portuguese Cobblestones",
+      "Garden at Dusk",
+      "Leiria Cathedral",
+      "Monument Details",
+      "Quiet Afternoon",
+      "Cityscape",
+      "Historical Architecture",
+      "Water Feature",
+      "Locals Relaxing"
     ],
     "viewAll": "View more photos on Google Maps",
     "showAllPhotos": "Show All Photos"
@@ -380,6 +379,6 @@
   },
   "officialManagement": {
     "title": "About Jardim Luís de Camões",
-    "text": "Jardim Luís de Camões is one of Portugal's most precious historical heritages."
+    "text": "Jardim Luís de Camões is an important memorial garden in the center of Leiria, managed and maintained by the Leiria City Council (Câmara Municipal de Leiria)."
   }
 }

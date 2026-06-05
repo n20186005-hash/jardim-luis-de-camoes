@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Jardim Luís de Camões | Medieval Castle & Stunning Panoramas in Portugal",
-    "description": "Complete guide to exploring Jardim Luís de Camões in Portugal. Learn about opening hours, transportation, and photo spots."
+    "title": "Jardim Luís de Camões | Jardin Memorial Ourbano an Leiria, Pertual",
+    "description": "Splore l guia cumpleto de l Jardim Luís de Camões an Leiria, Pertual. Coñeça este jardin memorial, la sue státua central i atraçones próssimas cumo l Castielho de Leiria."
   },
   "header": {
     "home": "Home",
@@ -19,44 +19,44 @@
     "openMaps": "View Location"
   },
   "intro": {
-    "title": "Explore Jardim Luís de Camões",
-    "description": "The Historic Centre of Leiria is situated on the gentle hills of the Alentejo region. The entire old town is enclosed by medieval walls, earning it the title of an open-air museum. Over two thousand years of civilization converge here, preserving ancient Roman ruins, Moorish alleys, Gothic churches, and Renaissance civil architecture. The old town is centered around Praça do Giraldo, with multiple ancient alleys radiating outward. Largo 5 de Outubro 48 is located on the old town's high ground, connecting the Roman Temple and the episcopal complex. Whitewashed walls adorned with wrought-iron balconies and hand-painted tiles form the iconic streetscape.",
+    "title": "Splorar l Jardim Luís de Camões",
+    "description": "L Jardim Luís de Camões ye un pequeinho jardin memorial ourbano lhocalizado ne l coraçon de Leiria, adjacente al Castielho de Leiria i al centro stórico. Ye un lhocal popular para ls habitantes lhocales relaxáren i passeáren. Ne l centro de l jardin argue-se ua státua de bronze an houmenaige al maior poeta de Pertual, Luís de Camões, rodeada por arbustos bien cuidados, flores, bancos i ua pequeinha fuonte, ouferecendo un ambiente tranquilo purfeito para un brebe çcanso.",
     "visitGuide": {
       "title": "Visiting Tips",
       "items": [
-        "The city features many uneven cobblestone streets; non-slip, comfortable walking shoes are essential. Most guesthouses within the old town can assist with short-distance luggage transfers.",
-        "Summer daytime temperatures are high. Ensure adequate sun protection, carry drinking water, and avoid the midday heat.",
-        "Tour groups mostly arrive at popular sites in the morning. For a quieter experience, try to enter as soon as the venues open.",
-        "Local public museums offer free admission on Sundays; religious sites are not included in this offer."
+        "L jardin ye un parque ourbano abierto cun terreno praino i caminos cunfortables",
+        "Eiquipado cun muitos bancos i selombra, tornando-lo un lhocal de çcanso eideal antes ó depuis de bejitar atraçones próssimas, cumo l Castielho de Leiria",
+        "Gratuito i abierto to l die, puode bejitar la qualquiera momiento para passear ó admirar la státua de Camões",
+        "Lhocalizado mesmo al lhado de l centro stórico de Leiria, cun einúmeros cafés i restourantes nas prossimidades"
       ]
     },
     "alsoKnownAs": {
-      "title": "Attraction Highlights",
+      "title": "Destaques de l Jardin",
       "items": [
-        "Multi-Era Historic Building Clusters: Concentrated distribution of the 2nd-century Roman Temple of Diana, medieval fortress-like Cathedral, 16th-century Chapel of Bones, and Renaissance noble mansions.",
-        "Authentic Medieval Streets: Moorish-style winding cobblestone paths with perfectly preserved local traditional architectural textures.",
-        "High-Altitude Panoramic Views: The Cathedral tower and Largo 5 de Outubro 48 terrace offer sweeping views of the old town's red-tiled roofs and the surrounding Alentejo plains.",
-        "Rich Local Culture: Plazas surrounded by open-air cafes and artisan shops, blending historical monuments with local daily life."
+        "Seneficado Memorial: Apresenta ua státua de bronze central dedicada al grande poeta pertués Luís de Camões",
+        "Ambiente Guapo: Ua mistura harmoniosa de arbustos berdes bien cuidados, flores sazonales i ua pequeinha fuonte",
+        "Lhocalizaçon Central: Situado ne l centro de Leiria, a solo 5 minutos a pie de l stórico Castielho de Leiria",
+        "Oásis Ourbano: Proporciona un spácio tranquilo i relaxante tanto para ls cidadanos cumo para ls turistas"
       ]
     }
   },
   "knowledge": {
-    "title": "Discover the Charm of Jardim Luís de Camões",
+    "title": "Çcubra l Ancanto de l Jardim Luís de Camões",
     "sections": [
       {
         "id": "history",
-        "title": "History",
-        "content": "Built in the 13th century, Jardim Luís de Camões was a crucial part of Portugal's border defense system. It witnessed multiple clashes between Moors and Christians and played a key role in the Reconquista."
+        "title": "Seneficado Memorial",
+        "content": "Este jardin fui stablecido pula cidade de Leiria cumo un spácio ourbano para prestar houmenaige al gigante lhiterário pertués Luís de Camões, tenendo la sue státua de bronze cumo peça central."
       },
       {
         "id": "architecture",
-        "title": "Architecture & Views",
-        "content": "Constructed mainly from schist and limestone, the castle blends perfectly with the natural environment. From the main tower, you get a 360-degree view of the stunning Alentejo landscape."
+        "title": "Paisagismo",
+        "content": "L jardin prisenta un zeño delicado cun begetaçon bien aparada, ua fuonte de stilo clássico i bancos relaxantes que se mistúran harmoniosamente cula arquitetura ourbana circundante."
       },
       {
         "id": "experience",
-        "title": "Core Experience",
-        "content": "Pass through the ancient gates, stroll along narrow streets exploring white houses and traditional craft shops, and wait for the sunset at the highest point of the castle."
+        "title": "Speriéncia Relaxante",
+        "content": "Ye l lhugar purfeito para çcontrair depuis de bejitar l majestoso Castielho de Leiria. Puode sentar-se nun banco, oubir la fuonte i spurmentar l stilo de bida tranquilo de Leiria."
       }
     ]
   },
@@ -65,7 +65,7 @@
     "officialName": "Official Name",
     "officialNameValue": "Jardim Luís de Camões",
     "type": "Attraction Type",
-    "typeValue": "Jardim",
+    "typeValue": "Jardin Memorial Ourbano",
     "country": "Country",
     "countryValue": "Portugal",
     "city": "City",
@@ -78,62 +78,61 @@
   },
   "hours": {
     "title": "Opening Hours",
-    "outdoor": "Castle Area",
-    "outdoorTime": "The old town streets, Praça do Giraldo, and Largo 5 de Outubro 48 are open 24/7 for free. Paid indoor venues have seasonal scheduled opening hours.",
-    "lighthouse": "Indoor Exhibitions",
-    "summer": "Chapel of Bones",
-    "summerTime": "Regularly 9:00-17:00, slight adjustments on public holidays",
-    "winter": "Leiria Cathedral (including viewing terrace)",
-    "winterTime": "9:30-18:00",
-    "warning": "Roman Temple Outdoor Ruins",
-    "warningTime": "Outdoor ruins open 24/7, attached small exhibition hall has limited hours",
-    "tip": "Best visited from April to October (Spring to Autumn); July and August are very hot at noon, so early morning or evening is preferred."
+    "outdoor": "To l Jardin",
+    "outdoorTime": "Gratuito i abierto to l die, sin pabilhones anteriores pagos, sin restriçones sazonales",
+    "lighthouse": "Atraçones Próssimas",
+    "summer": "Castielho de Leiria",
+    "summerTime": "Normalmente 09:30-17:30 (sujeito la anúncios oufeciales de l castielho)",
+    "winter": "Museu de Leiria",
+    "winterTime": "Normalmente 09:30-17:30 (Ancerrado a la segunda-feira)",
+    "warning": "Ária de la Fuonte i Státua",
+    "warningTime": "Abierto to l die para bisualizaçon",
+    "tip": "Las purmeiras horas de la manhana i ls finales de tarde son ls momientos mais tranquilos, purfeitos para passear i fotografar"
   },
   "tickets": {
     "title": "Ticket Information",
-    "outdoor": "Old Town Public Streets, Plazas, Temple Exteriors",
-    "outdoorPrice": "Free Admission",
-    "lighthouse": "Special Exhibitions",
-    "adults": "Chapel of Bones",
-    "adultsPrice": "Regular admission, discounts for students",
-    "students": "Leiria Cathedral (Viewing Terrace)",
-    "studentsPrice": "Adult admission, half-price for students",
-    "children": "Parking Fee",
-    "childrenPrice": "Motor vehicles are prohibited inside the ancient walls. Several free public parking lots are available just outside the walls, requiring only a 5 to 10-minute walk into the old town.",
-    "card": "Ticket Advice",
-    "cardPrice": "Discounted combo tickets available for multiple venues"
+    "outdoor": "Jardim Luís de Camões",
+    "outdoorPrice": "Gratuito to l die",
+    "lighthouse": "Atraçones Pagas Próssimas",
+    "adults": "Castielho de Leiria",
+    "adultsPrice": "Requier belhete de antrada",
+    "students": "Museus Próssimos",
+    "studentsPrice": "Aplícan-se taxas d'acuordo culas regras de cada lhocal",
+    "children": "Taxas de Stacionamiento",
+    "childrenPrice": "Stacionamiento pago na rue stá çponible al redror de l jardin, a 1-2 minutos a pie",
+    "card": "Dica de Trasporte",
+    "cardPrice": "Lhocalizado ne l centro de la cidade, a ua curta caminada de árias de restouraçon i comércio próssimas"
   },
   "transport": {
     "title": "Transportation",
     "airport": "From the Airport",
-    "airportDesc": "Nearest international airports: Lisbon (LIS) Airport (approx. 135 km, 1h 25m drive) and Faro (FAO) Airport (approx. 240 km, 2h 50m drive). Renting a car upon arrival is recommended.",
+    "airportDesc": "Aeroportos Anternacionales Mais Próssimos: Aeroporto de Lhisboua LIS (aprox. 140 km, 1,5 horas de carro), Aeroporto de l Porto OPO (aprox. 200 km, 2 horas de carro).",
     "selfDrive": "Driving",
-    "selfDriveDesc": "From Lisbon, take the A2 highway south, then connect to the A6 directly to Leiria. Navigate to Largo 5 de Outubro 48 and park in the lots outside the city walls.",
+    "selfDriveDesc": "A partir de Lhisboua, apañe la outoestrada A8 ó A1 para norte diretamente até Leiria. Defina l sou GPS para Largo 5 de Outubro 48 i ancontre stacionamiento pago na rue nas prossimidades.",
     "bus": "Public Transport",
-    "busDesc": "Take a Rede Expressos intercity bus from Sete Rios station in Lisbon directly to the Leiria bus station, which is within walking distance of the old town. Alternatively, there are direct trains from central Lisbon to Leiria, requiring a short walk into the city.",
+    "busDesc": "Outocarros anterurbanos diretos (Rede Expressos) i camboios pártem de Lhisboua i de l Porto para Leiria. A partir de la staçon de Leiria, l jardin ye facilmente acessible a pie.",
     "intercity": "Short-Distance Travel",
-    "intercityDesc": "The old town is entirely navigable on foot. The surrounding suburban plains are flat and ideal for cycling or chartering a car to visit nearby megalithic monuments and wineries.",
+    "intercityDesc": "Las atraçones ne l centro de Leiria stan próssimas uas de las outras; l Castielho de Leiria queda a solo 5 minutos a pie de l jardin.",
     "cycling": "Cycling",
-    "cyclingDesc": "The surrounding Alentejo region and Alqueva reservoir offer relatively flat and scenic routes, perfect for both road and mountain biking.",
+    "cyclingDesc": "Las árias costeiras al redror de Leiria (cumo la Nazaré i San Pedro de Moel) son ótimas para l ciclismo de strada.",
     "tips": "Travel Tips",
-    "tipsDesc": "Due to limited public transport schedules in the Alentejo region, renting a car is strongly advised for the flexibility to explore nearby wineries, megalithic monuments, and the Alqueva Dam."
+    "tipsDesc": "Leiria ten ua lhocalizaçon central an Pertual, acerca de la cuosta atlántica, de l Castielho de Óbidos i de l Mosteiro de la Batalha, tornando-se un eicelente punto de partida para splorar la region central."
   },
   "route": {
     "title": "Visiting Route",
-    "overview": "Standard Walking Tour Route (Half-Day Itinerary)",
+    "overview": "Pecurso Pedestre ne l Centro de Leiria",
     "steps": [
-      "Walk from the outside parking lot through the ancient aqueduct gate into the old town",
-      "Explore Praça do Giraldo and take a short break",
-      "Walk to visit the Church of St. Francis and the Chapel of Bones",
-      "Head to the Leiria Cathedral and climb to the terrace for a panoramic view",
-      "Move to Largo 5 de Outubro 48 to view the Roman Temple from a distance",
-      "Get up close to the remaining columns of the Roman Temple of Diana",
-      "Wander through the old town alleys in the evening and taste local specialties"
+      "Chegue al Jardim Luís de Camões para admirar la státua de Camões i la fuonte",
+      "Faga ua pausa nun banco de l jardin i çfrute de l berde ourbano",
+      "Camine até al centro stórico de Leiria para splorar ls cafés lhocales i lhojas de artesanato",
+      "Faga ua caminada de 5 minutos até al majestoso Castielho de Leiria",
+      "Bejite la bezina Sé de Leiria ó ls museus lhocales",
+      "Probe la cozina tradecional de l Centro de Pertual ne l centro stórico"
     ],
     "supplements": [
-      "Cobblestone streets can be slippery; wear comfortable, non-slip shoes.",
-      "Dining options are limited; booking in advance during peak season is advised.",
-      "Summer midday sun is intense; stay hydrated and use sun protection."
+      "L jardin ye un spácio abierto, nun son neçairias reserbas",
+      "Preste atençon als parquímetros i lhemites de tiempo nas rues circundantes",
+      "L Castielho de Leiria stá lhocalizado nua colina, eisigindo ua caminada a xubir"
     ],
     "supplementsTitle": "Visiting Notes"
   },
@@ -141,72 +140,72 @@
     "title": "Photo Spots",
     "spots": [
       {
-        "name": "Cathedral Roof Terrace",
-        "desc": "Capture the continuous roofs of the old town and the distant plains at sunset."
+        "name": "Státua de Luís de Camões",
+        "desc": "L marco central de l jardin, purfeito para retratos memoriales"
       },
       {
-        "name": "Largo 5 de Outubro 48 Viewing Platform",
-        "desc": "Eye-level view of the main Roman Temple columns with the white houses of the old town in the background."
+        "name": "Fuonte i Begetaçon",
+        "desc": "Use las caratelísticas de la auga i ls arbustos bien cuidados cumo purmeiros prainos para fotos frescas de l jardin"
       },
       {
-        "name": "Center of Praça do Giraldo",
-        "desc": "Utilize the radiating streets to create deep, culturally rich compositions."
+        "name": "Bancos de Relaxamiento",
+        "desc": "Capture la bida quotidiana çcontraída de ls habitantes lhocales"
       },
       {
-        "name": "Niche Cobblestone Alleys in the West",
-        "desc": "Whitewashed walls and tiled doors/windows, perfect for portraits."
+        "name": "Bista Çtante de l Castielho de Leiria",
+        "desc": "La silhueta de l castielho puode ser anquadrada a partir de ángulos specíficos al redror de l jardin"
       }
     ],
     "tips": "Photography Tips",
-    "tipsContent": "The golden hour at sunset provides soft light. The temple is illuminated at night, making it excellent for night photography."
+    "tipsContent": "La luç solar de la manhana filtrada pulas fuolhas subre la státua cria la melhor eiluminaçon para fotografie."
   },
   "hotels": {
     "title": "Accommodation Suggestions",
     "hotels": [
       {
-        "name": "Historic Guesthouses Inside the Walls",
-        "desc": "Converted from old noble mansions, steps away from major monuments.",
-        "price": "Advance booking required in peak season"
+        "name": "Houtéles Boutique ne l Centro",
+        "desc": "A poucos passos de l jardin i de l castielho, stremamente cumbeniente",
+        "price": "Eideal para quien gusta de l ambiente citadino"
       },
       {
-        "name": "Suburban Estate Hotels",
-        "desc": "Converted old monasteries and rural farms, often featuring courtyard pools.",
-        "price": "Ideal for self-driving tourists"
+        "name": "Apartamientos Acolhedores ne l Centro Stórico",
+        "desc": "Eiquipados cun cozinas, rodeados de restourantes i supermercados",
+        "price": "Ótimo para famílias ó stadias prolongadas"
       },
       {
-        "name": "Budget Apartments Outside the Old Town",
-        "desc": "Close to parking lots with plenty of dining options nearby.",
-        "price": "Outstanding value for money"
+        "name": "Resorts Costeiros (eis: acerca de la Nazaré)",
+        "desc": "A cerca de 30 minutos de carro de Leiria, ouferecendo bistas para l Ouceano Atlántico",
+        "price": "Purfeito para cundutores que percuran ua speriéncia de bacanças na praia"
       }
     ],
     "supplements": "Accommodation Notes",
-    "supplementsContent": "Focuses on rustic Alentejo cuisine: bread soup, garlic braised dishes, regional wines, and traditional Portuguese sweets. Local flavor restaurants are scattered throughout the old town alleys, perfect for spontaneous dining.",
+    "supplementsContent": "Leiria i l Centro de Pertual son famosos pul marisco, carnes assadas i doçarie cumbentual tradecional. Einúmeros restourantes lhocales bien abaliados ancóntran-se a ua curta çtáncia a pie de l jardin.",
     "supplementsTitle": "Local Cuisine"
   },
   "gallery": {
     "title": "Stunning Photos",
     "subtitle": "Charming Scenery of Jardim Luís de Camões",
     "captions": [
-      "Castle Panorama",
-      "Ancient Walls",
-      "Overlooking Alqueva Dam",
-      "White Houses and Cobblestones",
-      "Magnificent Sunset",
-      "Starry Night Sky",
-      "Historic City Gate",
-      "Traditional Craft Shop",
-      "Main Church",
-      "Castle Courtyard",
-      "Alentejo Plains",
-      "Defense Tower",
-      "Quiet Town Corner",
-      "White Walls in the Sun",
-      "Distant Landscape",
-      "Castle at Dusk",
-      "Medieval Details",
-      "Spring Wildflowers",
-      "Reservoir View",
-      "Distant Castle View"
+      "Státua de Camões",
+      "Fuonte de l Jardin",
+      "Arbustos Cuidados",
+      "Bista de l Castielho de Leiria",
+      "Caminho Sombreado",
+      "Oásis Ourbano",
+      "Rues de l Centro Stórico de Leiria",
+      "Café Lhocal",
+      "Banco al Sol",
+      "Flores de l Jardin",
+      "Praça de la Cidade",
+      "Calçada Pertuesa",
+      "Jardin al Anoitecer",
+      "Sé de Leiria",
+      "Detalhes de l Monumiento",
+      "Tarde Tranquila",
+      "Paisaige Ourbana",
+      "Arquitetura Stórica",
+      "Caratelística de la Auga",
+      "Lhocales a Relaxar"
     ],
     "viewAll": "View more photos on Google Maps",
     "showAllPhotos": "Show All Photos"
@@ -380,6 +379,6 @@
   },
   "officialManagement": {
     "title": "About Jardim Luís de Camões",
-    "text": "Jardim Luís de Camões is one of Portugal's most precious historical heritages."
+    "text": "L Jardim Luís de Camões ye un amportante jardin memorial ne l centro de Leiria, gerido i mantenido pula Cámara Municipal de Leiria."
   }
 }
