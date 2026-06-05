@@ -1,14 +1,11 @@
 jardim-luis-de-camoes
 
 我们网站是
-centrohistoricodeevora.com
+jardimluisdecamoes.com
 检查下有没有错误
 
 
-
-
-
-页头 错误Ponta da Piedade
+页头 错误
 精彩照片 点击 显示全部照片 没反应 要能显示全部图片
 
 关于 Monsaraz Castle
@@ -43,8 +40,21 @@ P5VV+VF 莱里亚 葡萄牙
 https://maps.app.goo.gl/6WaNcoHmFRCSmj4s5
 
 单景点买.com域名推荐
-centrohistoricodeevora
+
 按景点信息重新检查一遍现在网站数据是错的
+
+
+国家/地区 (Country/Region):* Portugal
+
+地址 (Address):* Largo 5 de Outubro 48
+
+地址 2 (Address 2): (Leave blank, or you can input the park name: Jardim Luís de Camões)
+
+城市 (City):* Leiria
+
+省/自治区/直辖市 (State/Province/Region):* Leiria
+
+邮政编码 (Postal Code):* 2400-137
 
 
 

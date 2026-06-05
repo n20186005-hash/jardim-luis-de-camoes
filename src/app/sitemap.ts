@@ -3,7 +3,7 @@ import { MetadataRoute } from 'next';
 export const dynamic = 'force-static';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://centrohistoricodeevora.com';
+  const baseUrl = 'https://jardimluisdecamoes.com';
   const locales = ['zh', 'en', 'pt', 'mwl'];
   const routes = ['', '/privacy-policy', '/terms-of-service', '/cookie-settings'];
 
