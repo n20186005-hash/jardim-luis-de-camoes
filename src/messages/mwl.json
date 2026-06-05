@@ -1,0 +1,385 @@
+{
+  "meta": {
+    "title": "Jardim Luís de Camões | Medieval Castle & Stunning Panoramas in Portugal",
+    "description": "Complete guide to exploring Jardim Luís de Camões in Portugal. Learn about opening hours, transportation, and photo spots."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Jardim Luís de Camões",
+    "subtitle": "Leiria · Pertual",
+    "rating": "4.5",
+    "reviewCount": "6,635",
+    "hours": "Open 24 Hours",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Explore Jardim Luís de Camões",
+    "description": "The Historic Centre of Leiria is situated on the gentle hills of the Alentejo region. The entire old town is enclosed by medieval walls, earning it the title of an open-air museum. Over two thousand years of civilization converge here, preserving ancient Roman ruins, Moorish alleys, Gothic churches, and Renaissance civil architecture. The old town is centered around Praça do Giraldo, with multiple ancient alleys radiating outward. Largo 5 de Outubro 48 is located on the old town's high ground, connecting the Roman Temple and the episcopal complex. Whitewashed walls adorned with wrought-iron balconies and hand-painted tiles form the iconic streetscape.",
+    "visitGuide": {
+      "title": "Visiting Tips",
+      "items": [
+        "The city features many uneven cobblestone streets; non-slip, comfortable walking shoes are essential. Most guesthouses within the old town can assist with short-distance luggage transfers.",
+        "Summer daytime temperatures are high. Ensure adequate sun protection, carry drinking water, and avoid the midday heat.",
+        "Tour groups mostly arrive at popular sites in the morning. For a quieter experience, try to enter as soon as the venues open.",
+        "Local public museums offer free admission on Sundays; religious sites are not included in this offer."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Attraction Highlights",
+      "items": [
+        "Multi-Era Historic Building Clusters: Concentrated distribution of the 2nd-century Roman Temple of Diana, medieval fortress-like Cathedral, 16th-century Chapel of Bones, and Renaissance noble mansions.",
+        "Authentic Medieval Streets: Moorish-style winding cobblestone paths with perfectly preserved local traditional architectural textures.",
+        "High-Altitude Panoramic Views: The Cathedral tower and Largo 5 de Outubro 48 terrace offer sweeping views of the old town's red-tiled roofs and the surrounding Alentejo plains.",
+        "Rich Local Culture: Plazas surrounded by open-air cafes and artisan shops, blending historical monuments with local daily life."
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Discover the Charm of Jardim Luís de Camões",
+    "sections": [
+      {
+        "id": "history",
+        "title": "History",
+        "content": "Built in the 13th century, Jardim Luís de Camões was a crucial part of Portugal's border defense system. It witnessed multiple clashes between Moors and Christians and played a key role in the Reconquista."
+      },
+      {
+        "id": "architecture",
+        "title": "Architecture & Views",
+        "content": "Constructed mainly from schist and limestone, the castle blends perfectly with the natural environment. From the main tower, you get a 360-degree view of the stunning Alentejo landscape."
+      },
+      {
+        "id": "experience",
+        "title": "Core Experience",
+        "content": "Pass through the ancient gates, stroll along narrow streets exploring white houses and traditional craft shops, and wait for the sunset at the highest point of the castle."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Jardim Luís de Camões",
+    "type": "Attraction Type",
+    "typeValue": "Jardim",
+    "country": "Country",
+    "countryValue": "Portugal",
+    "city": "City",
+    "cityValue": "Leiria",
+    "googleRating": "Google Rating",
+    "address": "Address",
+    "addressValue": "Largo 5 de Outubro 48, 2400-137 Leiria, Pertual",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "P5VV+VF Leiria Pertual"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "outdoor": "Castle Area",
+    "outdoorTime": "The old town streets, Praça do Giraldo, and Largo 5 de Outubro 48 are open 24/7 for free. Paid indoor venues have seasonal scheduled opening hours.",
+    "lighthouse": "Indoor Exhibitions",
+    "summer": "Chapel of Bones",
+    "summerTime": "Regularly 9:00-17:00, slight adjustments on public holidays",
+    "winter": "Leiria Cathedral (including viewing terrace)",
+    "winterTime": "9:30-18:00",
+    "warning": "Roman Temple Outdoor Ruins",
+    "warningTime": "Outdoor ruins open 24/7, attached small exhibition hall has limited hours",
+    "tip": "Best visited from April to October (Spring to Autumn); July and August are very hot at noon, so early morning or evening is preferred."
+  },
+  "tickets": {
+    "title": "Ticket Information",
+    "outdoor": "Old Town Public Streets, Plazas, Temple Exteriors",
+    "outdoorPrice": "Free Admission",
+    "lighthouse": "Special Exhibitions",
+    "adults": "Chapel of Bones",
+    "adultsPrice": "Regular admission, discounts for students",
+    "students": "Leiria Cathedral (Viewing Terrace)",
+    "studentsPrice": "Adult admission, half-price for students",
+    "children": "Parking Fee",
+    "childrenPrice": "Motor vehicles are prohibited inside the ancient walls. Several free public parking lots are available just outside the walls, requiring only a 5 to 10-minute walk into the old town.",
+    "card": "Ticket Advice",
+    "cardPrice": "Discounted combo tickets available for multiple venues"
+  },
+  "transport": {
+    "title": "Transportation",
+    "airport": "From the Airport",
+    "airportDesc": "Nearest international airports: Lisbon (LIS) Airport (approx. 135 km, 1h 25m drive) and Faro (FAO) Airport (approx. 240 km, 2h 50m drive). Renting a car upon arrival is recommended.",
+    "selfDrive": "Driving",
+    "selfDriveDesc": "From Lisbon, take the A2 highway south, then connect to the A6 directly to Leiria. Navigate to Largo 5 de Outubro 48 and park in the lots outside the city walls.",
+    "bus": "Public Transport",
+    "busDesc": "Take a Rede Expressos intercity bus from Sete Rios station in Lisbon directly to the Leiria bus station, which is within walking distance of the old town. Alternatively, there are direct trains from central Lisbon to Leiria, requiring a short walk into the city.",
+    "intercity": "Short-Distance Travel",
+    "intercityDesc": "The old town is entirely navigable on foot. The surrounding suburban plains are flat and ideal for cycling or chartering a car to visit nearby megalithic monuments and wineries.",
+    "cycling": "Cycling",
+    "cyclingDesc": "The surrounding Alentejo region and Alqueva reservoir offer relatively flat and scenic routes, perfect for both road and mountain biking.",
+    "tips": "Travel Tips",
+    "tipsDesc": "Due to limited public transport schedules in the Alentejo region, renting a car is strongly advised for the flexibility to explore nearby wineries, megalithic monuments, and the Alqueva Dam."
+  },
+  "route": {
+    "title": "Visiting Route",
+    "overview": "Standard Walking Tour Route (Half-Day Itinerary)",
+    "steps": [
+      "Walk from the outside parking lot through the ancient aqueduct gate into the old town",
+      "Explore Praça do Giraldo and take a short break",
+      "Walk to visit the Church of St. Francis and the Chapel of Bones",
+      "Head to the Leiria Cathedral and climb to the terrace for a panoramic view",
+      "Move to Largo 5 de Outubro 48 to view the Roman Temple from a distance",
+      "Get up close to the remaining columns of the Roman Temple of Diana",
+      "Wander through the old town alleys in the evening and taste local specialties"
+    ],
+    "supplements": [
+      "Cobblestone streets can be slippery; wear comfortable, non-slip shoes.",
+      "Dining options are limited; booking in advance during peak season is advised.",
+      "Summer midday sun is intense; stay hydrated and use sun protection."
+    ],
+    "supplementsTitle": "Visiting Notes"
+  },
+  "photoSpots": {
+    "title": "Photo Spots",
+    "spots": [
+      {
+        "name": "Cathedral Roof Terrace",
+        "desc": "Capture the continuous roofs of the old town and the distant plains at sunset."
+      },
+      {
+        "name": "Largo 5 de Outubro 48 Viewing Platform",
+        "desc": "Eye-level view of the main Roman Temple columns with the white houses of the old town in the background."
+      },
+      {
+        "name": "Center of Praça do Giraldo",
+        "desc": "Utilize the radiating streets to create deep, culturally rich compositions."
+      },
+      {
+        "name": "Niche Cobblestone Alleys in the West",
+        "desc": "Whitewashed walls and tiled doors/windows, perfect for portraits."
+      }
+    ],
+    "tips": "Photography Tips",
+    "tipsContent": "The golden hour at sunset provides soft light. The temple is illuminated at night, making it excellent for night photography."
+  },
+  "hotels": {
+    "title": "Accommodation Suggestions",
+    "hotels": [
+      {
+        "name": "Historic Guesthouses Inside the Walls",
+        "desc": "Converted from old noble mansions, steps away from major monuments.",
+        "price": "Advance booking required in peak season"
+      },
+      {
+        "name": "Suburban Estate Hotels",
+        "desc": "Converted old monasteries and rural farms, often featuring courtyard pools.",
+        "price": "Ideal for self-driving tourists"
+      },
+      {
+        "name": "Budget Apartments Outside the Old Town",
+        "desc": "Close to parking lots with plenty of dining options nearby.",
+        "price": "Outstanding value for money"
+      }
+    ],
+    "supplements": "Accommodation Notes",
+    "supplementsContent": "Focuses on rustic Alentejo cuisine: bread soup, garlic braised dishes, regional wines, and traditional Portuguese sweets. Local flavor restaurants are scattered throughout the old town alleys, perfect for spontaneous dining.",
+    "supplementsTitle": "Local Cuisine"
+  },
+  "gallery": {
+    "title": "Stunning Photos",
+    "subtitle": "Charming Scenery of Jardim Luís de Camões",
+    "captions": [
+      "Castle Panorama",
+      "Ancient Walls",
+      "Overlooking Alqueva Dam",
+      "White Houses and Cobblestones",
+      "Magnificent Sunset",
+      "Starry Night Sky",
+      "Historic City Gate",
+      "Traditional Craft Shop",
+      "Main Church",
+      "Castle Courtyard",
+      "Alentejo Plains",
+      "Defense Tower",
+      "Quiet Town Corner",
+      "White Walls in the Sun",
+      "Distant Landscape",
+      "Castle at Dusk",
+      "Medieval Details",
+      "Spring Wildflowers",
+      "Reservoir View",
+      "Distant Castle View"
+    ],
+    "viewAll": "View more photos on Google Maps",
+    "showAllPhotos": "Show All Photos"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Review information can be viewed via Google Maps (external link).",
+    "moreReviews": "View More Reviews on Google Maps",
+    "items": [
+      {
+        "name": "João Silva",
+        "date": "2 months ago",
+        "rating": 5,
+        "text": "A wonderfully preserved medieval village! The cobblestone streets and white houses are full of history, and the view of Lake Alqueva from the walls is simply unparalleled. Highly recommend visiting at sunset."
+      },
+      {
+        "name": "Maria Costa",
+        "date": "1 month ago",
+        "rating": 5,
+        "text": "One of the most beautiful towns in Portugal! The tranquility here is relaxing, and the surrounding scenery is spectacular. Just be careful, it gets very hot in the summer, so remember to bring water and sunscreen."
+      },
+      {
+        "name": "Carlos Rodrigues",
+        "date": "3 months ago",
+        "rating": 4,
+        "text": "Amazing place. The castle isn't huge, but the location is perfect. Had a fantastic traditional Portuguese meal at a restaurant in the village. The only issue is that parking can be hard to find in peak season."
+      },
+      {
+        "name": "Ana Martins",
+        "date": "Over 6 months ago",
+        "rating": 5,
+        "text": "A very romantic and charming place. We stayed here for a night, and stargazing was an absolute highlight since it's a famous dark sky reserve in Europe. Completely fell in love with it!"
+      },
+      {
+        "name": "Pedro Santos",
+        "date": "1 year ago",
+        "rating": 5,
+        "text": "The panoramic view here is truly breathtaking. You can see the reservoir and the vast plains intertwined. The town itself is also charming with many small shops selling local handicrafts."
+      },
+      {
+        "name": "Teresa Ferreira",
+        "date": "Over 6 months ago",
+        "rating": 4,
+        "text": "Well worth a visit! Very easy to drive from Leiria. Recommend wearing flat shoes because it's all cobblestones. The people in town are very friendly, and there are many great spots for photos."
+      },
+      {
+        "name": "Rui Almeida",
+        "date": "3 months ago",
+        "rating": 5,
+        "text": "Felt like stepping back into the Middle Ages! Every alley and every door has its story. Time seems to stand still when walking on the walls. A must-visit place in the Alentejo region."
+      },
+      {
+        "name": "Catarina Gomes",
+        "date": "2 months ago",
+        "rating": 5,
+        "text": "Too beautiful to describe with words. Whether it's the ancient castle ruins or the blue lake water below, it makes you linger. Especially recommend going to the top of the tower, although it's very windy, the view is the best."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Transportation Guide",
+    "subtitle": "Largo 5 de Outubro 48, 2400-137 Leiria, Pertual",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Jardim Luís de Camões. Todos ls dreitos reserbados.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Related Resources & Information",
+    "officialLinks": {
+      "council": "Visit Portugal",
+      "tourism": "Alentejo Tourism Guide",
+      "england": "Reguengos de Monsaraz City Council"
+    },
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: May 2026",
+    "sections": [
+      {
+        "heading": "1. Information We Collect",
+        "content": "We only collect the minimum data necessary to provide our services. This data may include: browsing data (IP address, browser type, visited pages), cookies and similar technologies, and any information you voluntarily provide via contact forms or email."
+      },
+      {
+        "heading": "2. How We Use Your Information",
+        "content": "We use the collected information to: improve website content and user experience, analyze traffic and usage patterns, respond to requests, and comply with our legal obligations."
+      },
+      {
+        "heading": "3. Third-Party Services",
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+      },
+      {
+        "heading": "4. Your Rights",
+        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated: May 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+      },
+      {
+        "heading": "2. Use of Content",
+        "content": "All content on this website is for informational purposes only. We are an independent third-party travel information website, not affiliated with any tourist attractions, government agencies, or commercial operators."
+      },
+      {
+        "heading": "3. Accuracy of Information",
+        "content": "We strive to provide accurate and timely information, but we cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Always verify important information through official channels before traveling."
+      },
+      {
+        "heading": "4. Intellectual Property",
+        "content": "The design and original content of this website are protected by copyright. Images are sourced from Unsplash and used under license. The use of Google Maps data complies with Google's terms of service."
+      },
+      {
+        "heading": "5. Limitation of Liability",
+        "content": "This website is provided \"as is\" without any warranties. We are not responsible for any losses resulting from the use of information on this website, including but not limited to travel decisions made based on its content."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Last Updated: May 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "These cookies are essential for the website to function properly and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "They help us understand how visitors interact with our website by collecting anonymous usage data.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Active",
+          "description": "It collects anonymous information about how visitors use our website."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "They are used to show relevant advertisements and measure the effectiveness of ad campaigns.",
+      "items": [
+        {
+          "name": "Personalized Ads",
+          "status": "Inactive",
+          "description": "It can show you relevant ads based on your interests."
+        }
+      ]
+    },
+    "save": "Save Preferences",
+    "saved": "Settings saved!",
+    "preferences": {
+      "items": [
+        {
+          "name": "User Preferences",
+          "status": "Active",
+          "description": "Saves your language preferences and website settings."
+        }
+      ],
+      "title": "Preference Cookies",
+      "description": "They remember your settings, such as language and theme preferences."
+    },
+    "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
+    "rejectAll": "Reject All"
+  },
+  "officialManagement": {
+    "title": "About Jardim Luís de Camões",
+    "text": "Jardim Luís de Camões is one of Portugal's most precious historical heritages."
+  }
+}
