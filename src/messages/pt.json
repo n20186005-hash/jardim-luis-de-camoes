@@ -1,28 +1,28 @@
 {
   "meta": {
-    "title": "Jardim Luís de Camões | Jardim Memorial Urbano em Leiria, Portugal",
-    "description": "Explore o guia completo do Jardim Luís de Camões em Leiria, Portugal. Conheça este jardim memorial, a sua estátua central e atrações próximas como o Castelo de Leiria."
+    "title": "Jardim Luís de Camões (Leiria): Guia Completo & O Que Fazer",
+    "description": "Descubra o Jardim Luís de Camões em Leiria: jardim memorial gratuito junto ao Castelo, com estátua do poeta, fonte e bancos. Aberto todo o dia. Mapa, o que visitar e dicas práticas."
   },
   "header": {
-    "home": "Home",
-    "gallery": "Gallery",
-    "reviews": "Reviews",
-    "map": "Map",
-    "backToHome": "Back to Home"
+    "home": "Início",
+    "gallery": "Galeria",
+    "reviews": "Avaliações",
+    "map": "Mapa",
+    "backToHome": "Voltar ao Início"
   },
   "hero": {
     "title": "Jardim Luís de Camões",
     "subtitle": "Leiria · Portugal",
     "rating": "4.5",
-    "reviewCount": "6,635",
-    "hours": "Open 24 Hours",
-    "openMaps": "View Location"
+    "reviewCount": "6,696",
+    "hours": "Aberto 24 Horas",
+    "openMaps": "Ver Localização"
   },
   "intro": {
     "title": "Explorar o Jardim Luís de Camões",
     "description": "O Jardim Luís de Camões é um pequeno jardim memorial urbano localizado no coração de Leiria, adjacente ao Castelo de Leiria e ao centro histórico. É um local popular para os habitantes locais relaxarem e passearem. No centro do jardim ergue-se uma estátua de bronze em homenagem ao maior poeta de Portugal, Luís de Camões, rodeada por arbustos bem cuidados, flores, bancos e uma pequena fonte, oferecendo um ambiente tranquilo perfeito para um breve descanso.",
     "visitGuide": {
-      "title": "Visiting Tips",
+      "title": "Dicas de Visita",
       "items": [
         "O jardim é um parque urbano aberto com terreno plano e caminhos confortáveis",
         "Equipado com muitos bancos e sombra, tornando-o um local de descanso ideal antes ou depois de visitar atrações próximas, como o Castelo de Leiria",
@@ -41,7 +41,7 @@
     }
   },
   "knowledge": {
-    "title": "Descubra o Encanto do Jardim Luís de Camões",
+    "title": "Conhecer o Jardim e a Cidade",
     "sections": [
       {
         "id": "history",
@@ -57,27 +57,39 @@
         "id": "experience",
         "title": "Experiência Relaxante",
         "content": "É o lugar perfeito para descontrair depois de visitar o majestoso Castelo de Leiria. Pode sentar-se num banco, ouvir a fonte e experimentar o estilo de vida tranquilo de Leiria."
+      },
+      {
+        "id": "camoes",
+        "title": "Quem Foi Luís de Camões?",
+        "content": "Luís Vaz de Camões (c. 1524–1580) é considerado o maior poeta de Portugal e um dos nomes centrais da língua portuguesa. Escreveu Os Lusíadas (1572), o poema épico que celebra a expansão marítima portuguesa e a viagem de Vasco da Gama à Índia. A sua obra tornou-se um símbolo da identidade nacional — por isso o português é tantas vezes chamado «a língua de Camões». No dia 10 de junho, aniversário da sua morte, celebra-se em Portugal o Dia de Portugal, de Camões e das Comunidades Portuguesas."
+      },
+      {
+        "id": "leiria",
+        "title": "O Castelo e a Cidade de Leiria",
+        "content": "Leiria, no Centro de Portugal, cresceu à volta do seu castelo junto ao rio Lis, tomado aos muçulmanos no século XII no contexto da Reconquista. No reinado de D. Dinis (1279–1325) o castelo foi transformado em paço régio: o rei e a rainha Santa Isabel passaram longas temporadas na cidade, onde se construiu a célebre galeria gótica de arcos ogivais. Foi também por ordem de D. Dinis que se mandou plantar o Pinhal de Leiria, junto à costa. O jardim fica mesmo junto a esta colina histórica, no coração do centro antigo, sendo um ponto de partida natural para conhecer Leiria."
       }
     ]
   },
   "basicInfo": {
-    "title": "Basic Information",
-    "officialName": "Official Name",
+    "title": "Informações Básicas",
+    "officialName": "Nome Oficial",
     "officialNameValue": "Jardim Luís de Camões",
-    "type": "Attraction Type",
+    "type": "Tipo de Atração",
     "typeValue": "Jardim Memorial Urbano",
-    "country": "Country",
+    "country": "País",
     "countryValue": "Portugal",
-    "city": "City",
+    "city": "Cidade",
     "cityValue": "Leiria",
-    "googleRating": "Google Rating",
-    "address": "Address",
+    "googleRating": "Avaliação Google",
+    "address": "Morada",
     "addressValue": "Largo 5 de Outubro 48, 2400-137 Leiria, Portugal",
     "plusCode": "Plus Code",
-    "plusCodeValue": "P5VV+VF Leiria Portugal"
+    "plusCodeValue": "P5VV+VF Leiria Portugal",
+    "phone": "Telefone",
+    "phoneValue": "+351 244 839 500"
   },
   "hours": {
-    "title": "Opening Hours",
+    "title": "Horário de Funcionamento",
     "outdoor": "Todo o Jardim",
     "outdoorTime": "Gratuito e aberto todo o dia, sem pavilhões interiores pagos, sem restrições sazonais",
     "lighthouse": "Atrações Próximas",
@@ -90,7 +102,7 @@
     "tip": "As primeiras horas da manhã e os finais de tarde são os momentos mais tranquilos, perfeitos para passear e fotografar"
   },
   "tickets": {
-    "title": "Ticket Information",
+    "title": "Informação de Bilhetes",
     "outdoor": "Jardim Luís de Camões",
     "outdoorPrice": "Gratuito todo o dia",
     "lighthouse": "Atrações Pagas Próximas",
@@ -104,22 +116,22 @@
     "cardPrice": "Localizado no centro da cidade, a uma curta caminhada de áreas de restauração e comércio próximas"
   },
   "transport": {
-    "title": "Transportation",
-    "airport": "From the Airport",
+    "title": "Como Chegar",
+    "airport": "A partir do Aeroporto",
     "airportDesc": "Aeroportos Internacionais Mais Próximos: Aeroporto de Lisboa LIS (aprox. 140 km, 1,5 horas de carro), Aeroporto do Porto OPO (aprox. 200 km, 2 horas de carro).",
-    "selfDrive": "Driving",
+    "selfDrive": "De Carro",
     "selfDriveDesc": "A partir de Lisboa, apanhe a autoestrada A8 ou A1 para norte diretamente até Leiria. Defina o seu GPS para Largo 5 de Outubro 48 e encontre estacionamento pago na rua nas proximidades.",
-    "bus": "Public Transport",
+    "bus": "Transportes Públicos",
     "busDesc": "Autocarros interurbanos diretos (Rede Expressos) e comboios partem de Lisboa e do Porto para Leiria. A partir da estação de Leiria, o jardim é facilmente acessível a pé.",
-    "intercity": "Short-Distance Travel",
+    "intercity": "Percursos Curtos",
     "intercityDesc": "As atrações no centro de Leiria estão próximas umas das outras; o Castelo de Leiria fica a apenas 5 minutos a pé do jardim.",
-    "cycling": "Cycling",
+    "cycling": "Ciclismo",
     "cyclingDesc": "As áreas costeiras ao redor de Leiria (como a Nazaré e São Pedro de Moel) são ótimas para o ciclismo de estrada.",
-    "tips": "Travel Tips",
+    "tips": "Dicas de Viagem",
     "tipsDesc": "Leiria tem uma localização central em Portugal, perto da costa atlântica, do Castelo de Óbidos e do Mosteiro da Batalha, tornando-se um excelente ponto de partida para explorar a região central."
   },
   "route": {
-    "title": "Visiting Route",
+    "title": "Roteiro de Visita",
     "overview": "Percurso Pedestre no Centro de Leiria",
     "steps": [
       "Chegue ao Jardim Luís de Camões para admirar a estátua de Camões e a fonte",
@@ -134,10 +146,10 @@
       "Preste atenção aos parquímetros e limites de tempo nas ruas circundantes",
       "O Castelo de Leiria está localizado numa colina, exigindo uma caminhada a subir"
     ],
-    "supplementsTitle": "Visiting Notes"
+    "supplementsTitle": "Notas de Visita"
   },
   "photoSpots": {
-    "title": "Photo Spots",
+    "title": "Melhores Pontos para Fotografar",
     "spots": [
       {
         "name": "Estátua de Luís de Camões",
@@ -156,11 +168,11 @@
         "desc": "A silhueta do castelo pode ser enquadrada a partir de ângulos específicos ao redor do jardim"
       }
     ],
-    "tips": "Photography Tips",
+    "tips": "Dicas de Fotografia",
     "tipsContent": "A luz solar da manhã filtrada pelas folhas sobre a estátua cria a melhor iluminação para fotografia."
   },
   "hotels": {
-    "title": "Accommodation Suggestions",
+    "title": "Sugestões de Alojamento",
     "hotels": [
       {
         "name": "Hotéis Boutique no Centro",
@@ -178,12 +190,12 @@
         "price": "Perfeito para condutores que procuram uma experiência de férias na praia"
       }
     ],
-    "supplements": "Accommodation Notes",
+    "supplements": "Notas de Alojamento",
     "supplementsContent": "Leiria e o Centro de Portugal são famosos pelo marisco, carnes assadas e doçaria conventual tradicional. Inúmeros restaurantes locais bem avaliados encontram-se a uma curta distância a pé do jardim.",
-    "supplementsTitle": "Local Cuisine"
+    "supplementsTitle": "Gastronomia Local"
   },
   "gallery": {
-    "title": "Stunning Photos",
+    "title": "Fotos do Jardim",
     "subtitle": "Charming Scenery of Jardim Luís de Camões",
     "captions": [
       "Estátua de Camões",
@@ -208,10 +220,10 @@
       "Locais a Relaxar"
     ],
     "viewAll": "View more photos on Google Maps",
-    "showAllPhotos": "Show All Photos"
+    "showAllPhotos": "Mostrar Todas as Fotos"
   },
   "reviews": {
-    "title": "Visitor Reviews",
+    "title": "Avaliações de Visitantes",
     "declaration": "Review information can be viewed via Google Maps (external link).",
     "moreReviews": "View More Reviews on Google Maps",
     "items": [
@@ -266,9 +278,12 @@
     ]
   },
   "mapSection": {
-    "title": "Transportation Guide",
+    "title": "Mapa e Localização",
     "subtitle": "Largo 5 de Outubro 48, 2400-137 Leiria, Portugal",
-    "openMaps": "View on Google Maps"
+    "openMaps": "Ver no Google Maps",
+    "authority": "Fonte oficial",
+    "authorityLinkLabel": "Turismo Centro de Portugal — portal regional de turismo",
+    "authorityLinkUrl": "https://www.centerofportugal.com/"
   },
   "footer": {
     "rights": "© 2026 Jardim Luís de Camões. Todos os direitos reservados.",
@@ -276,12 +291,30 @@
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
     "officialResourcesTitle": "Related Resources & Information",
-    "officialLinks": {
-      "council": "Visit Portugal",
-      "tourism": "Alentejo Tourism Guide",
-      "england": "Reguengos de Monsaraz City Council"
-    },
-    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions.",
+    "links": [
+      {
+        "name": "Visit Portugal — Turismo de Portugal",
+        "url": "https://www.visitportugal.com/pt-pt"
+      },
+      {
+        "name": "Direção-Geral do Património Cultural",
+        "url": "https://www.patrimoniocultural.gov.pt/"
+      },
+      {
+        "name": "Turismo Centro de Portugal",
+        "url": "https://www.centerofportugal.com/"
+      },
+      {
+        "name": "Câmara Municipal de Leiria",
+        "url": "https://www.cm-leiria.pt/"
+      },
+      {
+        "name": "AIMA — Agência para a Integração, Migrações e Asilo",
+        "url": "https://aima.gov.pt/pt"
+      }
+    ],
+    "photoCredit": "Todas as fotografias apresentadas neste site permanecem propriedade dos respetivos fotógrafos, com direitos de autor reservados."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -380,5 +413,107 @@
   "officialManagement": {
     "title": "About Jardim Luís de Camões",
     "text": "O Jardim Luís de Camões é um importante jardim memorial no centro de Leiria, gerido e mantido pela Câmara Municipal de Leiria."
+  },
+  "facilities": {
+    "title": "Serviços e Comodidades nas Proximidades",
+    "subtitle": "O jardim está no centro de Leiria, rodeado de serviços essenciais. Listamos apenas tipos de serviços — sem recomendar estabelecimentos específicos.",
+    "neutralNote": "Site de divulgação sem fins lucrativos: apresentamos tipos de serviços disponíveis na zona, sem sugerir marcas ou estabelecimentos concretos.",
+    "items": [
+      {
+        "title": "Casas de Banho / WC",
+        "desc": "Há casas de banho públicas e sanitários em espaços municipais no centro histórico; confirme os acessos e horários locais."
+      },
+      {
+        "title": "Estacionamento",
+        "desc": "Parques e estacionamento na via pública pagos a 1–2 minutos a pé do jardim; atenção a parquímetros e limites de tempo."
+      },
+      {
+        "title": "Cafés e Restaurantes",
+        "desc": "Pastelarias, cafés, tascas e restaurantes de cozinha regional do Centro de Portugal rodeiam o jardim no centro antigo."
+      },
+      {
+        "title": "Alojamento",
+        "desc": "Hotéis, guesthouses e apartamentos no centro histórico e zonas envolventes; opções na costa a cerca de 30 minutos de carro."
+      },
+      {
+        "title": "Supermercados e Lojas",
+        "desc": "Minimercados e supermercados no centro para compras rápidas, além do comércio tradicional e de artesanato."
+      },
+      {
+        "title": "Combustível e Carregamento Elétrico",
+        "desc": "Postos de abastecimento na cidade e pontos de carregamento para veículos elétricos em expansão na região."
+      },
+      {
+        "title": "Farmácias",
+        "desc": "Farmácias na zona central, habitualmente com horários de turno na região."
+      },
+      {
+        "title": "Bancos e Caixas Multibanco",
+        "desc": "Balcões bancários e caixas multibanco (ATM) nas principais ruas do centro de Leiria."
+      }
+    ]
+  },
+  "weather": {
+    "title": "Tempo Agora e Previsão",
+    "subtitle": "Condições atuais e previsão a 7 dias no Jardim Luís de Camões, Leiria.",
+    "now": "Agora",
+    "feelsLike": "Sensação",
+    "humidity": "Humidade",
+    "wind": "Vento",
+    "precip": "Precipitação",
+    "updated": "Atualizado",
+    "labels": {
+      "clear": "Céu limpo",
+      "partly": "Parcialmente nublado",
+      "cloudy": "Nublado",
+      "fog": "Nevoeiro",
+      "rain": "Chuva",
+      "snow": "Neve",
+      "storm": "Trovoada",
+      "unknown": "—"
+    },
+    "unavailableTitle": "Previsão indisponível",
+    "unavailableText": "Não foi possível obter os dados meteorológicos neste momento. Volte mais tarde.",
+    "source": "Dados meteorológicos: Open-Meteo"
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "subtitle": "Respostas rápidas para preparar a sua visita.",
+    "items": [
+      {
+        "q": "A entrada no jardim é gratuita?",
+        "a": "Sim. O Jardim Luís de Camões é um espaço público ao ar livre, gratuito e aberto a todos."
+      },
+      {
+        "q": "Qual é o horário de funcionamento?",
+        "a": "O jardim está aberto todo o dia, todos os dias, sem bilhete nem restrições sazonais. O início da manhã e o fim da tarde são os momentos mais tranquilos."
+      },
+      {
+        "q": "O que posso visitar nas proximidades?",
+        "a": "A poucos minutos a pé ficam o Castelo de Leiria, a Sé de Leiria, os museus da cidade e o centro histórico com comércio tradicional."
+      },
+      {
+        "q": "Onde posso estacionar?",
+        "a": "Existe estacionamento pago na via pública a 1–2 minutos a pé do jardim. Preste atenção aos parquímetros e aos limites de tempo."
+      },
+      {
+        "q": "Quanto tempo devo dedicar à visita?",
+        "a": "Para o jardim em si bastam 30 a 60 minutos; recomendamos combiná-lo com o Castelo de Leiria e o centro histórico para um passeio de meio dia."
+      },
+      {
+        "q": "Qual é a melhor altura para visitar?",
+        "a": "O jardim é agradável durante todo o ano. De manhã cedo ou ao fim da tarde a luz é melhor para fotografias e o ambiente é mais calmo."
+      },
+      {
+        "q": "Onde fica o jardim e como chego?",
+        "a": "Fica no Largo 5 de Outubro 48, no centro de Leiria, junto ao castelo. A estação de comboios e autocarros fica a uma curta caminhada."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Fontes e Referências",
+    "note": "Esta é uma página informativa, sem fins lucrativos, mantida pela comunidade. O conteúdo foi compilado a partir de fontes oficiais públicas e informações locais, procurando manter-se neutro e verificável.",
+    "officialLabel": "Portais oficiais de informação",
+    "lastUpdated": "Última atualização: 4 de setembro de 2026"
   }
 }

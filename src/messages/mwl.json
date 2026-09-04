@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Jardim Luís de Camões | Jardin Memorial Ourbano an Leiria, Pertual",
-    "description": "Splore l guia cumpleto de l Jardim Luís de Camões an Leiria, Pertual. Coñeça este jardin memorial, la sue státua central i atraçones próssimas cumo l Castielho de Leiria."
+    "title": "Jardim Luís de Camões (Leiria): Guia Cumpleto & O Que Bejitar",
+    "description": "Çcubra l Jardim Luís de Camões an Leiria: jardin memorial gratuito acerca de l Castielho, cula státua de l poeta, fuonte i bancos. Abierto to l die. Mapa, que bejitar i dicas prácticas."
   },
   "header": {
     "home": "Home",
@@ -14,7 +14,7 @@
     "title": "Jardim Luís de Camões",
     "subtitle": "Leiria · Pertual",
     "rating": "4.5",
-    "reviewCount": "6,635",
+    "reviewCount": "6,696",
     "hours": "Open 24 Hours",
     "openMaps": "View Location"
   },
@@ -41,7 +41,7 @@
     }
   },
   "knowledge": {
-    "title": "Çcubra l Ancanto de l Jardim Luís de Camões",
+    "title": "Coincer l Jardin i la Cidade",
     "sections": [
       {
         "id": "history",
@@ -57,6 +57,16 @@
         "id": "experience",
         "title": "Speriéncia Relaxante",
         "content": "Ye l lhugar purfeito para çcontrair depuis de bejitar l majestoso Castielho de Leiria. Puode sentar-se nun banco, oubir la fuonte i spurmentar l stilo de bida tranquilo de Leiria."
+      },
+      {
+        "id": "camoes",
+        "title": "Quien Fui Luís de Camões?",
+        "content": "Luís Vaz de Camões (c. 1524–1580) ye cunsidrado l maior poeta de Pertual i un de ls nomes centrales de la léngua pertuesa. Scriu ls Lusíadas (1572), l poema épico que celebra la spanson marítima pertuesa i la biaige de Vasco de Gama a la Índia. La sue obra tornou-se un simblo de la eidantidade nacional — ye por esso que l pertués ye tantas bezes chamado «la léngua de Camões». A 10 de júnio, data de la sue muorte, celebra-se an Pertual l Die de Pertual, de Camões i de las Quemunidades Pertuesas."
+      },
+      {
+        "id": "leiria",
+        "title": "L Castielho i la Cidade de Leiria",
+        "content": "Leiria, an Pertual central, creciu an torno de l sou castielho, acerca de l riu Lis, tomado als muçulmanos ne l seclo XII ne l cuntesto de la Reconquista. Ne l reinado de D. Dinis (1279–1325) l castielho fui trasnformado an paço régio: l rei i la reina Santa Isabel passórun lhongas temporadas na cidade, adonde se custruiu la célebre galerie gótica d’arcores ogibales. Fui tamien por orde de D. Dinis que se mandou plantar l Pinhal de Leiria, junto a la cuosta. L jardin queda mesmo acerca de esta colina stórica, ne l coraçon de l centro antigo, sendo un punto de partida natural para coincer Leiria."
       }
     ]
   },
@@ -74,7 +84,9 @@
     "address": "Address",
     "addressValue": "Largo 5 de Outubro 48, 2400-137 Leiria, Pertual",
     "plusCode": "Plus Code",
-    "plusCodeValue": "P5VV+VF Leiria Pertual"
+    "plusCodeValue": "P5VV+VF Leiria Pertual",
+    "phone": "Telefone",
+    "phoneValue": "+351 244 839 500"
   },
   "hours": {
     "title": "Opening Hours",
@@ -268,7 +280,10 @@
   "mapSection": {
     "title": "Transportation Guide",
     "subtitle": "Largo 5 de Outubro 48, 2400-137 Leiria, Pertual",
-    "openMaps": "View on Google Maps"
+    "openMaps": "View on Google Maps",
+    "authority": "Fuonte oufecial",
+    "authorityLinkLabel": "Turismo Centro de Pertual (portal regional de turismo)",
+    "authorityLinkUrl": "https://www.centerofportugal.com/"
   },
   "footer": {
     "rights": "© 2026 Jardim Luís de Camões. Todos ls dreitos reserbados.",
@@ -276,12 +291,30 @@
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
     "officialResourcesTitle": "Related Resources & Information",
-    "officialLinks": {
-      "council": "Visit Portugal",
-      "tourism": "Alentejo Tourism Guide",
-      "england": "Reguengos de Monsaraz City Council"
-    },
-    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions.",
+    "links": [
+      {
+        "name": "Bejita Pertual — Turismo de Pertual",
+        "url": "https://www.visitportugal.com/pt-pt"
+      },
+      {
+        "name": "Direçon-Geral de l Património Cultural",
+        "url": "https://www.patrimoniocultural.gov.pt/"
+      },
+      {
+        "name": "Turismo Centro de Pertual",
+        "url": "https://www.centerofportugal.com/"
+      },
+      {
+        "name": "Cámara Municipal de Leiria",
+        "url": "https://www.cm-leiria.pt/"
+      },
+      {
+        "name": "AIMA — Agéncia pa la Amportaçon, Migraçones i Asilo",
+        "url": "https://aima.gov.pt/pt"
+      }
+    ],
+    "photoCredit": "Todas las fotografie apersentadas neste site quedan a la pertenéncia de ls respetibos fotógrafos, cun dreitos d'outor reserbados."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -380,5 +413,107 @@
   "officialManagement": {
     "title": "About Jardim Luís de Camões",
     "text": "L Jardim Luís de Camões ye un amportante jardin memorial ne l centro de Leiria, gerido i mantenido pula Cámara Municipal de Leiria."
+  },
+  "facilities": {
+    "title": "Serbícios i Cumodidades Ne las Perurmidades",
+    "subtitle": "L jardin queda ne l centro de Leiria, arrodeado de serbícios eissenciales. Apersentamos solo tipos de serbícios — sin recomendar stablecimientos specíficos.",
+    "neutralNote": "Sítio de divulgaçon sin fines lucratibos: apersentamos tipos de serbícios çponibles na zona, sin sugerir marcas nin stablecimientos cuncretos.",
+    "items": [
+      {
+        "title": "Casas de Banho / WC",
+        "desc": "Eisiste casas de banho públicas i sanitários an eiquipamientos municipales ne l centro stórico; cunfirme ls acessos i horários locales."
+      },
+      {
+        "title": "Parque",
+        "desc": "Parques i staçonamiento na bía pública pagos a 1–2 minutos de camino de l jardin; atenção als parquímetros i lhemites de tiempo."
+      },
+      {
+        "title": "Cafés i Restourantes",
+        "desc": "Pastelaries, cafés, tascas i restourantes de quemido regional de l Centro de Pertual arrodeian l jardin ne l centro antigo."
+      },
+      {
+        "title": "Alojamiento",
+        "desc": "Hoteles, guesthouses i apartamientos ne l centro stórico i zonas anbolbentes; oupçones na cuosta a cerca de 30 minutos de carro."
+      },
+      {
+        "title": "Supermercados i Botigas",
+        "desc": "Minisupermercados i supermercados ne l centro para cumpras rápidas, para alhá de l comércio tradecional i de l'artesanato."
+      },
+      {
+        "title": "Cumbustible i Carregamiento Elétrico",
+        "desc": "Postos de abastecimiento na cidade i puntos de carregamiento para beiclos eilétricos an spanson na region."
+      },
+      {
+        "title": "Farmácias",
+        "desc": "Farmácias na zona central, houabitualmente cun horários de turno na region."
+      },
+      {
+        "title": "Bancos i Caixas Multibanco",
+        "desc": "Balcones bancairos i caixas multibanco (ATM) nas percipales ruas de l centro de Leiria."
+      }
+    ]
+  },
+  "weather": {
+    "title": "Tiempo Agora i Prebison",
+    "subtitle": "Cundiçones atuales i prebison de 7 dies ne l Jardim Luís de Camões, Leiria.",
+    "now": "Agora",
+    "feelsLike": "Sençaçon",
+    "humidity": "Houmedade",
+    "wind": "Biento",
+    "precip": "Precipitaçon",
+    "updated": "Atualizado",
+    "labels": {
+      "clear": "Cielo limpo",
+      "partly": "Parcialmente nubrado",
+      "cloudy": "Nubrado",
+      "fog": "Néboa",
+      "rain": "Chuba",
+      "snow": "Niefe",
+      "storm": "Troboada",
+      "unknown": "—"
+    },
+    "unavailableTitle": "Prebison andisponible",
+    "unavailableText": "Nun fui possible oubter ls dados meteorológicos neste momento. Torne mais tarde.",
+    "source": "Dados meteorológicos: Open-Meteo"
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "subtitle": "Respuostas rápidas para preparar la sue bejita.",
+    "items": [
+      {
+        "q": "La antrada ne l jardin ye gratuita?",
+        "a": "Si. L Jardim Luís de Camões ye un spácio público a l aire libre, gratuito i abierto a todos."
+      },
+      {
+        "q": "Qual ye l horairo de funcionamiento?",
+        "a": "L jardin stá abierto to l die, todos ls dies, sin bilhete nin restriçones sazinales. L ampeço de la manhana i l fin de la tarde son ls momentos mais sossegados."
+      },
+      {
+        "q": "Que puodo bejitar ne las perurmidades?",
+        "a": "A poucos minutos de camino ficam l Castielho de Leiria, la Sé de Leiria, ls museus de la cidade i l centro stórico cun comércio tradecional."
+      },
+      {
+        "q": "Adonde puodo parcar?",
+        "a": "Eisiste staçonamiento pago na bía pública a 1–2 minutos de camino de l jardin. Atenda als parquímetros i als lhemites de tiempo."
+      },
+      {
+        "q": "Quanto tiempo debio dedicar a la bejita?",
+        "a": "Para l jardin an si bastan 30 a 60 minutos; recomenda-se cumbinar cul Castielho de Leiria i l centro stórico para un passeio de meio die."
+      },
+      {
+        "q": "Qual ye la melhor altura para bejitar?",
+        "a": "L jardin ye agradable durante to l anho. De manhana cedo ó al fin de la tarde la luç ye melhor para fotografies i l ambiente mais sossegado."
+      },
+      {
+        "q": "Adonde queda l jardin i cumo chego?",
+        "a": "Queda ne l Largo 5 de Outubre 48, ne l centro de Leiria, acerca de l castielho. La staçon de comboios i outocarros queda a ua pequeinha caminada."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Fuontes i Refréncias",
+    "note": "Esta ye ua páigina anformatiba, sin fines lucratibos, mantenida pula quemunidade. L cuntenido fui cumpilado a partir de fuontes oufeciales públicas i anformaçones locales, buscando quedar neutro i berificable.",
+    "officialLabel": "Portales oufeciales d'anformaçon",
+    "lastUpdated": "Redadeira atualizaçon: 4 de setembre de 2026"
   }
 }

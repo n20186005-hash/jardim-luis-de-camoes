@@ -1,9 +1,9 @@
-import { MetadataRoute } from 'next';
+import type { MetadataRoute } from 'next';
+import { baseUrl } from '@/config';
 
 export const dynamic = 'force-static';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://jardimluisdecamoes.com';
   const locales = ['zh', 'en', 'pt', 'mwl'];
   const routes = ['', '/privacy-policy', '/terms-of-service', '/cookie-settings'];
 
@@ -11,11 +11,23 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   for (const locale of locales) {
     for (const route of routes) {
+      const url = `${baseUrl}/${locale}${route}`;
+      const languages: Record<string, string> = {
+        zh: `${baseUrl}/zh${route}`,
+        en: `${baseUrl}/en${route}`,
+        pt: `${baseUrl}/pt${route}`,
+        mwl: `${baseUrl}/mwl${route}`,
+        'x-default': `${baseUrl}/pt${route}`,
+      };
+
       sitemap.push({
-        url: `${baseUrl}/${locale}${route}`,
-        lastModified: new Date(),
+        url,
+        lastModified: new Date('2026-09-04'),
         changeFrequency: route === '' ? 'weekly' : 'monthly',
         priority: route === '' ? 1 : 0.5,
+        alternates: {
+          languages,
+        },
       });
     }
   }

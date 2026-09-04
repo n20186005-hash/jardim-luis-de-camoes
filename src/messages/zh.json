@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Jardim Luís de Camões | 葡萄牙莱里亚的城市纪念花园",
-    "description": "探索葡萄牙莱里亚 Jardim Luís de Camões（路易斯·德·卡蒙斯花园）的完整指南。了解这座纪念伟大诗人的花园的休闲步道与周边景点。"
+    "title": "Jardim Luís de Camões（莱里亚）：游览指南与周边去处",
+    "description": "探索葡萄牙莱里亚的 Jardim Luís de Camões 纪念花园：紧邻莱里亚城堡，全天免费开放，园中有诗人卡蒙斯雕像、喷泉与长椅。附地图、周边去处与实用游览贴士。"
   },
   "header": {
     "home": "首页",
@@ -14,7 +14,7 @@
     "title": "Jardim Luís de Camões",
     "subtitle": "莱里亚 · 葡萄牙",
     "rating": "4.5",
-    "reviewCount": "6,635",
+    "reviewCount": "6,696",
     "hours": "全天开放",
     "openMaps": "查看位置"
   },
@@ -41,7 +41,7 @@
     }
   },
   "knowledge": {
-    "title": "发现路易斯·德·卡蒙斯花园的魅力",
+    "title": "了解花园与这座城市",
     "sections": [
       {
         "id": "history",
@@ -57,6 +57,16 @@
         "id": "experience",
         "title": "休闲体验",
         "content": "在游览完雄伟的莱里亚城堡后，这里是完美的放松地点。您可以坐在长椅上聆听喷泉的水声，感受莱里亚的慢节奏生活。"
+      },
+      {
+        "id": "camoes",
+        "title": "谁是路易斯·德·卡蒙斯？",
+        "content": "路易斯·瓦斯·德·卡蒙斯（约1524–1580）被誉为葡萄牙最伟大的诗人，也是葡萄牙语世界的核心人物。他创作的史诗《卢济塔尼亚人之歌》（Os Lusíadas，1572年出版）歌颂了葡萄牙的海上扩张与瓦斯科·达伽马远航印度的历程。他的作品成为民族认同的象征——因此葡萄牙语常被称为“卡蒙斯的语言”。1580年6月10日是卡蒙斯的忌日，如今葡萄牙在每年这一天庆祝“葡萄牙、卡蒙斯与葡语国家共同体日”。"
+      },
+      {
+        "id": "leiria",
+        "title": "莱里亚城堡与这座城市",
+        "content": "莱里亚位于葡萄牙中部，城市围绕利什河（Rio Lis）旁的城堡发展起来；12世纪收复失地运动期间，这座要塞从穆斯林手中夺回。在国王迪尼什一世（D. Dinis，1279–1325年在位）统治时期，城堡被改造成王室宫邸：国王与王后圣伊莎贝尔常年在此居住，宫内修建了著名的哥特式尖拱廊（galeria gótica），成为该城堡的标志。迪尼什一世还下令在沿海地区种植莱里亚松林（Pinhal de Leiria）。花园就坐落在这一历史山丘脚下、老城中心，是探索莱里亚的理想起点。"
       }
     ]
   },
@@ -74,7 +84,9 @@
     "address": "地址",
     "addressValue": "Largo 5 de Outubro 48, 2400-137 Leiria, 葡萄牙",
     "plusCode": "Plus 代码",
-    "plusCodeValue": "P5VV+VF 莱里亚 葡萄牙"
+    "plusCodeValue": "P5VV+VF 莱里亚 葡萄牙",
+    "phone": "电话",
+    "phoneValue": "+351 244 839 500"
   },
   "hours": {
     "title": "开放时间",
@@ -268,7 +280,10 @@
   "mapSection": {
     "title": "交通指南",
     "subtitle": "Largo 5 de Outubro 48, 2400-137 Leiria, 葡萄牙",
-    "openMaps": "在 Google Maps 查看"
+    "openMaps": "在 Google Maps 查看",
+    "authority": "官方来源",
+    "authorityLinkLabel": "葡萄牙中部大区旅游局（区域旅游局官网）",
+    "authorityLinkUrl": "https://www.centerofportugal.com/"
   },
   "footer": {
     "rights": "© 2026 Jardim Luís de Camões. 保留所有权利。",
@@ -276,12 +291,30 @@
     "terms": "服务条款",
     "cookies": "Cookie 设置",
     "officialResourcesTitle": "相关资源与资讯",
-    "officialLinks": {
-      "council": "葡萄牙国家旅游局",
-      "tourism": "中部大区大区旅游局",
-      "england": "雷根戈什-迪蒙萨拉斯市政府"
-    },
-    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。",
+    "links": [
+      {
+        "name": "葡萄牙国家旅游局（Visit Portugal）",
+        "url": "https://www.visitportugal.com/en"
+      },
+      {
+        "name": "葡萄牙文化遗产总局（DGPC）",
+        "url": "https://www.patrimoniocultural.gov.pt/"
+      },
+      {
+        "name": "葡萄牙中部大区旅游局",
+        "url": "https://www.centerofportugal.com/"
+      },
+      {
+        "name": "莱里亚市政府",
+        "url": "https://www.cm-leiria.pt/"
+      },
+      {
+        "name": "AIMA — 葡萄牙移民与庇护署",
+        "url": "https://aima.gov.pt/pt"
+      }
+    ],
+    "photoCredit": "本网站所展示的所有图片，其产权及版权均归原摄影者所有。"
   },
   "privacy": {
     "title": "隐私政策",
@@ -380,5 +413,107 @@
   "officialManagement": {
     "title": "关于 Jardim Luís de Camões",
     "text": "Jardim Luís de Camões 是莱里亚市中心的一座重要纪念花园，由莱里亚市议会（Câmara Municipal de Leiria）管理与维护。"
+  },
+  "facilities": {
+    "title": "周边设施与服务",
+    "subtitle": "花园位于莱里亚市中心，周边生活服务齐全。此处仅列出服务类型，不做具体商户推荐。",
+    "neutralNote": "本站为非营利科普网站：仅客观介绍周边可用的服务类型，不推荐任何品牌或具体商家。",
+    "items": [
+      {
+        "title": "公共卫生间 / WC",
+        "desc": "历史中心有公共卫生间及市政设施内的洗手间，请留意开放时间与入口。"
+      },
+      {
+        "title": "停车",
+        "desc": "步行1–2分钟可达路边收费停车位与停车场；注意停车计时器与时限。"
+      },
+      {
+        "title": "咖啡馆与餐厅",
+        "desc": "老城区花园周边有面包店、咖啡馆、小餐馆及供应葡萄牙中部风味的地方餐厅。"
+      },
+      {
+        "title": "住宿",
+        "desc": "历史中心及周边有酒店、民宿与公寓；海岸地区的住宿距此约30分钟车程。"
+      },
+      {
+        "title": "超市与商店",
+        "desc": "市中心有小型超市和杂货店，可快速采购日常用品；也有传统商店与手工艺品店。"
+      },
+      {
+        "title": "加油与电动汽车充电",
+        "desc": "市区设有加油站，区域内电动汽车充电点正在不断增加。"
+      },
+      {
+        "title": "药店",
+        "desc": "中心区域有药店，通常实行当地轮值值班制度。"
+      },
+      {
+        "title": "银行与ATM",
+        "desc": "莱里亚市中心主要街道设有银行网点与自动取款机（ATM）。"
+      }
+    ]
+  },
+  "weather": {
+    "title": "实时天气与未来7天预报",
+    "subtitle": "Jardim Luís de Camões（莱里亚）的当前天气与7天预报。",
+    "now": "现在",
+    "feelsLike": "体感温度",
+    "humidity": "湿度",
+    "wind": "风速",
+    "precip": "降水概率",
+    "updated": "更新时间",
+    "labels": {
+      "clear": "晴",
+      "partly": "多云间晴",
+      "cloudy": "阴",
+      "fog": "雾",
+      "rain": "雨",
+      "snow": "雪",
+      "storm": "雷暴",
+      "unknown": "—"
+    },
+    "unavailableTitle": "预报暂不可用",
+    "unavailableText": "暂时无法获取天气数据，请稍后再试。",
+    "source": "天气数据来源：Open-Meteo"
+  },
+  "faq": {
+    "title": "常见问题",
+    "subtitle": "快速解答，助您规划游览。",
+    "items": [
+      {
+        "q": "花园入场免费吗？",
+        "a": "是的。Jardim Luís de Camões 是免费开放的户外公共空间，欢迎所有人进入。"
+      },
+      {
+        "q": "开放时间是？",
+        "a": "花园全天开放、全年无休，无需门票、不受季节限制。清晨与傍晚时段最为清静。"
+      },
+      {
+        "q": "附近有什么可游览的？",
+        "a": "步行几分钟即可到达莱里亚城堡、莱里亚主教堂、城市博物馆，以及拥有传统商铺的老城区。"
+      },
+      {
+        "q": "在哪里停车？",
+        "a": "距花园步行1–2分钟有收费的路边停车位。请注意停车计时器与时限。"
+      },
+      {
+        "q": "参观需要多长时间？",
+        "a": "仅游览花园30–60分钟即可；建议与莱里亚城堡和老城区串联游览，安排半天行程。"
+      },
+      {
+        "q": "什么时间参观最好？",
+        "a": "花园四季皆宜。清晨或傍晚光线最适合拍照，环境也更安静。"
+      },
+      {
+        "q": "花园在哪里，如何前往？",
+        "a": "位于莱里亚市中心 Largo 5 de Outubro 48，紧邻城堡。火车站与汽车站均在步行范围内。"
+      }
+    ]
+  },
+  "sources": {
+    "title": "资料来源与参考",
+    "note": "本页为社区维护的非盈利科普指南，内容依据可公开核实的官方资料与实地信息整理，力求中立客观。",
+    "officialLabel": "官方信息门户",
+    "lastUpdated": "最后更新：2026年9月4日"
   }
 }

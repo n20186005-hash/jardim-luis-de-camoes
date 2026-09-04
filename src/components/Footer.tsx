@@ -1,18 +1,25 @@
-import { useTranslations } from 'next-intl';
+import { useMessages, useTranslations } from 'next-intl';
 import { useLocale } from 'next-intl';
 
-const officialLinks = [
-  { name: '葡萄牙国家旅游局', url: 'https://www.visitportugal.com/en' },
-  { name: '葡萄牙国家文化遗产保护总局', url: 'https://www.patrimoniocultural.gov.pt/' },
-  { name: '葡萄牙中部大区旅游局', url: 'https://www.centerofportugal.com/' },
-  { name: '莱里亚市政府', url: 'https://www.cm-leiria.pt/' },
-  { name: '葡萄牙出入境与内政管理', url: 'https://aima.gov.pt/pt' },
+type FooterLink = { name: string; url: string };
+
+const fallbackLinks: FooterLink[] = [
+  { name: 'Visit Portugal — Turismo de Portugal', url: 'https://www.visitportugal.com/pt-pt' },
+  { name: 'Direção-Geral do Património Cultural', url: 'https://www.patrimoniocultural.gov.pt/' },
+  { name: 'Turismo Centro de Portugal', url: 'https://www.centerofportugal.com/' },
+  { name: 'Câmara Municipal de Leiria', url: 'https://www.cm-leiria.pt/' },
+  { name: 'AIMA — Agência para a Integração, Migrações e Asilo', url: 'https://aima.gov.pt/pt' },
 ];
 
 export default function Footer() {
   const t = useTranslations('footer');
   const locale = useLocale();
-  const prefix = locale === 'en' ? '' : `/${locale}`;
+  const messages = useMessages() as any;
+  const prefix = `/${locale}`;
+
+  const links: FooterLink[] = Array.isArray(messages?.footer?.links)
+    ? messages.footer.links
+    : fallbackLinks;
 
   return (
     <footer
@@ -29,13 +36,13 @@ export default function Footer() {
               {t('officialResourcesTitle')}
             </p>
             <div className="flex flex-col gap-2">
-              {officialLinks.map((link, i) => (
-                <a 
+              {links.map((link, i) => (
+                <a
                   key={i}
-                  href={link.url} 
-                  target="_blank" 
-                  rel="noopener noreferrer" 
-                  className="hover:underline text-sm" 
+                  href={link.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:underline text-sm"
                   style={{ color: 'var(--accent)' }}
                 >
                   {link.name}
@@ -60,6 +67,9 @@ export default function Footer() {
           className="pt-6 text-center text-sm space-y-4"
           style={{ borderTop: '1px solid var(--border-color)', color: 'var(--text-muted)' }}
         >
+          {t('photoCredit') && (
+            <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('photoCredit')}</p>
+          )}
           <p>{t('rights')}</p>
           <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('disclaimer')}</p>
         </div>

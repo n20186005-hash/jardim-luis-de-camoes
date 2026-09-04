@@ -1,3 +1,4 @@
+import path from 'node:path';
 import createNextIntlPlugin from 'next-intl/plugin';
 import type { NextConfig } from 'next';
 
@@ -12,6 +13,7 @@ const nextConfig: NextConfig = {
   // 确保静态导出时正确处理图片路径
   output: 'export',
   distDir: 'out',
+  outputFileTracingRoot: path.join(__dirname),
 };
 
 export default withNextIntl(nextConfig);

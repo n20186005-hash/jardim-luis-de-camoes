@@ -25,14 +25,14 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://maps.google.com/maps?q=Jardim+Lu%C3%ADs+de+Cam%C3%B5es,+Leiria,+Portugal&t=&z=15&ie=UTF8&iwloc=&output=embed"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5456.491067582706!2d-8.8063219!3d39.7446309!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd22736c29b453d3%3A0xf00ebbed20747a0!2sJardim%20Lu%C3%ADs%20de%20Cam%C3%B5es!5e1!3m2!1szh-CN!2s!4v1788516348816!5m2!1szh-CN!2s"
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Jardim Luís de Camões"
+            referrerPolicy="strict-origin-when-cross-origin"
+            title="Google Maps - Jardim Luís de Camões, Leiria, Portugal"
           />
         </div>
 
@@ -55,6 +55,20 @@ export default function MapEmbed() {
               <polyline points="15 3 21 3 21 9" />
               <line x1="10" y1="14" x2="21" y2="3" />
             </svg>
+          </a>
+        </div>
+
+        {/* Authority external link */}
+        <div className="mt-5 text-center text-sm">
+          <span style={{ color: 'var(--text-muted)' }}>{t('authority')}: </span>
+          <a
+            href={t('authorityLinkUrl')}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:underline"
+            style={{ color: 'var(--accent)' }}
+          >
+            {t('authorityLinkLabel')}
           </a>
         </div>
       </div>

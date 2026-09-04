@@ -1,12 +1,14 @@
 {
-  "name": "centro-historico-de-evora",
+  "name": "jardimluisdecamoes",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "apply:content": "node scripts/apply-content.mjs",
+    "optimize:images": "node scripts/optimize-gallery.mjs"
   },
   "dependencies": {
     "next": "^15.1.0",

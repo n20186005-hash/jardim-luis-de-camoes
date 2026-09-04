@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Jardim Luís de Camões | Urban Memorial Garden in Leiria, Portugal",
-    "description": "Explore the complete guide to Jardim Luís de Camões in Leiria, Portugal. Learn about this memorial garden, its central statue, and nearby attractions like Leiria Castle."
+    "title": "Jardim Luís de Camões, Leiria: Visitor Guide & Things to Do",
+    "description": "Visit Jardim Luís de Camões in Leiria, Portugal: a free memorial garden beside Leiria Castle, with a Camões statue, fountain and benches. Open all day. Map, what to see and visitor tips."
   },
   "header": {
     "home": "Home",
@@ -14,7 +14,7 @@
     "title": "Jardim Luís de Camões",
     "subtitle": "Leiria · Portugal",
     "rating": "4.5",
-    "reviewCount": "6,635",
+    "reviewCount": "6,696",
     "hours": "Open 24 Hours",
     "openMaps": "View Location"
   },
@@ -41,7 +41,7 @@
     }
   },
   "knowledge": {
-    "title": "Discover the Charm of Jardim Luís de Camões",
+    "title": "Understanding the Garden & the City",
     "sections": [
       {
         "id": "history",
@@ -57,6 +57,16 @@
         "id": "experience",
         "title": "Relaxing Experience",
         "content": "It is the perfect place to unwind after visiting the majestic Leiria Castle. You can sit on a bench, listen to the fountain, and experience the slow-paced lifestyle of Leiria."
+      },
+      {
+        "id": "camoes",
+        "title": "Who Was Luís de Camões?",
+        "content": "Luís Vaz de Camões (c. 1524–1580) is regarded as Portugal's greatest poet and a central figure of the Portuguese language. He wrote The Lusiads (Os Lusíadas, 1572), the epic poem celebrating Portugal's maritime expansion and Vasco da Gama's voyage to India. His work became a symbol of national identity — which is why Portuguese is often called 'the language of Camões'. On 10 June, the anniversary of his death, Portugal celebrates the Day of Portugal, Camões and the Portuguese Communities."
+      },
+      {
+        "id": "leiria",
+        "title": "The Castle and the City of Leiria",
+        "content": "Leiria, in central Portugal, grew around its castle beside the River Lis. The stronghold was taken from the Moors in the 12th century during the Reconquista. Under King Dinis (1279–1325) the castle became a royal palace: the king and Queen Saint Elizabeth spent long periods in the city, where the famous Gothic loggia with ogival arches was built. King Dinis also ordered the planting of the Pinhal de Leiria forest near the coast. The garden stands right beside this historic hill, in the heart of the old town, making it a natural starting point to explore Leiria."
       }
     ]
   },
@@ -74,7 +84,9 @@
     "address": "Address",
     "addressValue": "Largo 5 de Outubro 48, 2400-137 Leiria, Portugal",
     "plusCode": "Plus Code",
-    "plusCodeValue": "P5VV+VF Leiria Portugal"
+    "plusCodeValue": "P5VV+VF Leiria Portugal",
+    "phone": "Phone",
+    "phoneValue": "+351 244 839 500"
   },
   "hours": {
     "title": "Opening Hours",
@@ -268,7 +280,10 @@
   "mapSection": {
     "title": "Transportation Guide",
     "subtitle": "Largo 5 de Outubro 48, 2400-137 Leiria, Portugal",
-    "openMaps": "View on Google Maps"
+    "openMaps": "View on Google Maps",
+    "authority": "Official source",
+    "authorityLinkLabel": "Turismo Centro de Portugal (regional tourism board)",
+    "authorityLinkUrl": "https://www.centerofportugal.com/"
   },
   "footer": {
     "rights": "© 2026 Jardim Luís de Camões. All rights reserved.",
@@ -276,12 +291,30 @@
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
     "officialResourcesTitle": "Related Resources & Information",
-    "officialLinks": {
-      "council": "Visit Portugal",
-      "tourism": "Alentejo Tourism Guide",
-      "england": "Reguengos de Monsaraz City Council"
-    },
-    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions.",
+    "links": [
+      {
+        "name": "Visit Portugal — National Tourism Authority",
+        "url": "https://www.visitportugal.com/en"
+      },
+      {
+        "name": "Património Cultural (DGPC)",
+        "url": "https://www.patrimoniocultural.gov.pt/"
+      },
+      {
+        "name": "Turismo Centro de Portugal",
+        "url": "https://www.centerofportugal.com/"
+      },
+      {
+        "name": "Leiria City Council",
+        "url": "https://www.cm-leiria.pt/"
+      },
+      {
+        "name": "AIMA — Agency for Integration, Migration and Asylum",
+        "url": "https://aima.gov.pt/pt"
+      }
+    ],
+    "photoCredit": "All photos displayed on this website remain the property of and copyrighted by their original photographers."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -380,5 +413,107 @@
   "officialManagement": {
     "title": "About Jardim Luís de Camões",
     "text": "Jardim Luís de Camões is an important memorial garden in the center of Leiria, managed and maintained by the Leiria City Council (Câmara Municipal de Leiria)."
+  },
+  "facilities": {
+    "title": "Nearby Facilities & Services",
+    "subtitle": "The garden sits in the centre of Leiria, surrounded by essential services. We only list types of services — no specific businesses are recommended.",
+    "neutralNote": "This is a non-profit information website: we present the types of services available nearby, without endorsing any brands or specific venues.",
+    "items": [
+      {
+        "title": "Public Toilets / WC",
+        "desc": "Public toilets and municipal facilities can be found in the historic centre; check local access and opening times."
+      },
+      {
+        "title": "Parking",
+        "desc": "Paid street parking and car parks are a 1–2 minute walk from the garden; watch for meters and time limits."
+      },
+      {
+        "title": "Cafés and Restaurants",
+        "desc": "Bakeries, cafés, snack bars and restaurants serving central-Portugal cuisine surround the garden in the old town."
+      },
+      {
+        "title": "Accommodation",
+        "desc": "Hotels, guesthouses and apartments in the historic centre and surroundings; coastal options are about 30 minutes away by car."
+      },
+      {
+        "title": "Supermarkets and Shops",
+        "desc": "Small supermarkets and grocery stores in the centre for quick purchases, plus traditional shops and crafts."
+      },
+      {
+        "title": "Fuel and EV Charging",
+        "desc": "Petrol stations in the city and a growing number of electric-vehicle charging points in the region."
+      },
+      {
+        "title": "Pharmacies",
+        "desc": "Pharmacies in the central area, usually operating on a local duty-rotation schedule."
+      },
+      {
+        "title": "Banks and ATMs",
+        "desc": "Bank branches and ATMs can be found along the main streets of Leiria centre."
+      }
+    ]
+  },
+  "weather": {
+    "title": "Weather Now & 7-Day Forecast",
+    "subtitle": "Current conditions and a 7-day forecast for Jardim Luís de Camões, Leiria.",
+    "now": "Now",
+    "feelsLike": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "precip": "Precipitation",
+    "updated": "Updated",
+    "labels": {
+      "clear": "Clear sky",
+      "partly": "Partly cloudy",
+      "cloudy": "Cloudy",
+      "fog": "Fog",
+      "rain": "Rain",
+      "snow": "Snow",
+      "storm": "Thunderstorm",
+      "unknown": "—"
+    },
+    "unavailableTitle": "Forecast unavailable",
+    "unavailableText": "Weather data could not be retrieved right now. Please try again later.",
+    "source": "Weather data: Open-Meteo"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Quick answers to help you plan your visit.",
+    "items": [
+      {
+        "q": "Is admission to the garden free?",
+        "a": "Yes. Jardim Luís de Camões is a free public open-air space, open to everyone."
+      },
+      {
+        "q": "What are the opening hours?",
+        "a": "The garden is open all day, every day, with no ticket and no seasonal restrictions. Early morning and late afternoon are the quietest times."
+      },
+      {
+        "q": "What can I visit nearby?",
+        "a": "Within a short walk you will find Leiria Castle, Leiria Cathedral, the city museums and the historic centre with traditional shops."
+      },
+      {
+        "q": "Where can I park?",
+        "a": "Paid street parking is available a 1–2 minute walk from the garden. Watch for parking meters and time limits."
+      },
+      {
+        "q": "How long should I spend there?",
+        "a": "Allow 30 to 60 minutes for the garden itself; we recommend combining it with Leiria Castle and the historic centre for a half-day outing."
+      },
+      {
+        "q": "What is the best time to visit?",
+        "a": "The garden is pleasant all year round. Early morning or late afternoon offers the best light for photos and a calmer atmosphere."
+      },
+      {
+        "q": "Where is the garden and how do I get there?",
+        "a": "It is at Largo 5 de Outubro 48, in the centre of Leiria, next to the castle. The train and bus station is a short walk away."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Sources & References",
+    "note": "This is a non-profit, community-maintained guide. It was compiled from publicly available official sources and local information, keeping the content neutral and verifiable.",
+    "officialLabel": "Official information portals",
+    "lastUpdated": "Last updated: 4 September 2026"
   }
 }

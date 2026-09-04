@@ -24,9 +24,13 @@ export default function BasicInfo() {
           <InfoCard title={t('city')} value={t('cityValue')} />
           <InfoCard title={t('plusCode')} value={t('plusCodeValue')} />
           <InfoCard title={t('googleRating')} value={`${tHero('rating')}/5 (${tHero('reviewCount')})`} />
-          <div className="md:col-span-3">
+        </div>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-6">
+          <div className="lg:col-span-2">
             <InfoCard title={t('address')} value={t('addressValue')} />
           </div>
+          <InfoCard title={t('phone')} value={t('phoneValue')} />
         </div>
       </div>
     </section>

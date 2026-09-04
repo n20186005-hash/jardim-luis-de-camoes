@@ -13,7 +13,7 @@ export default function Gallery() {
   const [showAll, setShowAll] = useState(false);
 
   const photos = photoIndices.map((num, i) => ({
-    src: `/gallery/jardim-luis-de-camoes (${num}).jpg`,
+    src: `/gallery/jardim-luis-de-camoes-${num}.jpg`,
     alt: captions?.[i] || `Jardim Luís de Camões ${num}`,
   }));
 
