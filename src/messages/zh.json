@@ -473,8 +473,7 @@
       "unknown": "—"
     },
     "unavailableTitle": "预报暂不可用",
-    "unavailableText": "暂时无法获取天气数据，请稍后再试。",
-    "source": "天气数据来源：Open-Meteo"
+    "unavailableText": "暂时无法获取天气数据，请稍后再试。"
   },
   "faq": {
     "title": "常见问题",

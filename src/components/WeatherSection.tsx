@@ -321,10 +321,6 @@ export default async function WeatherSection() {
             })}
           </div>
         </div>
-
-        <p className="mt-6 text-xs" style={{ color: 'var(--text-secondary)' }}>
-          {t('source')} · Jardim Luís de Camões · 39.7446, -8.8063
-        </p>
       </div>
     </section>
   );

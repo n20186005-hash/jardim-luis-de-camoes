@@ -473,8 +473,7 @@
       "unknown": "—"
     },
     "unavailableTitle": "Previsão indisponível",
-    "unavailableText": "Não foi possível obter os dados meteorológicos neste momento. Volte mais tarde.",
-    "source": "Dados meteorológicos: Open-Meteo"
+    "unavailableText": "Não foi possível obter os dados meteorológicos neste momento. Volte mais tarde."
   },
   "faq": {
     "title": "Perguntas Frequentes",

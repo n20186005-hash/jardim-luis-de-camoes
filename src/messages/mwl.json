@@ -473,8 +473,7 @@
       "unknown": "—"
     },
     "unavailableTitle": "Prebison andisponible",
-    "unavailableText": "Nun fui possible oubter ls dados meteorológicos neste momento. Torne mais tarde.",
-    "source": "Dados meteorológicos: Open-Meteo"
+    "unavailableText": "Nun fui possible oubter ls dados meteorológicos neste momento. Torne mais tarde."
   },
   "faq": {
     "title": "Perguntas Frequentes",

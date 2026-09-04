@@ -473,8 +473,7 @@
       "unknown": "—"
     },
     "unavailableTitle": "Forecast unavailable",
-    "unavailableText": "Weather data could not be retrieved right now. Please try again later.",
-    "source": "Weather data: Open-Meteo"
+    "unavailableText": "Weather data could not be retrieved right now. Please try again later."
   },
   "faq": {
     "title": "Frequently Asked Questions",
